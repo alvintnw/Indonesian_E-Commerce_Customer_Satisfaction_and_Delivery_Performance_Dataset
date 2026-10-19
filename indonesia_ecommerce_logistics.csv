@@ -1,0 +1,1201 @@
+order_id,shipping_provider,delivery_type,destination_province,shipping_cost_idr,estimated_days,actual_days,delivery_status,customer_satisfaction_rating
+LOG-7000,JNE Express,Regular,DKI Jakarta,18401,3,3,On-Time,4.5
+LOG-7001,J&T Express,Regular,Jawa Tengah,10972,3,3,On-Time,5.0
+LOG-7002,J&T Express,Same-Day,Banten,56284,0,0,On-Time,5.0
+LOG-7003,GoSend,Cargo,Jawa Timur,80420,5,5,On-Time,4.5
+LOG-7004,GoSend,Regular,Bali,13502,3,3,On-Time,5.0
+LOG-7005,AnterAja,Regular,DKI Jakarta,16669,4,5,Delayed,3.0
+LOG-7006,JNE Express,Regular,Jawa Tengah,14255,3,3,On-Time,5.0
+LOG-7007,SiCepat Ekspres,Same-Day,Banten,53725,0,0,On-Time,5.0
+LOG-7008,JNE Express,Regular,Bali,15054,4,4,On-Time,5.0
+LOG-7009,J&T Express,Regular,Jawa Timur,18047,2,2,On-Time,5.0
+LOG-7010,J&T Express,Same-Day,Jawa Timur,29439,0,0,On-Time,4.8
+LOG-7011,SiCepat Ekspres,Cargo,Bali,62698,5,5,On-Time,4.8
+LOG-7012,JNE Express,Regular,DKI Jakarta,14502,2,2,On-Time,4.5
+LOG-7013,J&T Express,Regular,Jawa Barat,13462,4,4,On-Time,4.8
+LOG-7014,JNE Express,Regular,Jawa Tengah,12516,2,2,On-Time,5.0
+LOG-7015,AnterAja,Regular,Sumatera Utara,11697,3,5,Delayed,3.0
+LOG-7016,JNE Express,Express,Bali,30515,1,1,On-Time,4.5
+LOG-7017,J&T Express,Regular,Jawa Tengah,16409,2,2,On-Time,5.0
+LOG-7018,J&T Express,Same-Day,Bali,29129,0,0,On-Time,4.5
+LOG-7019,J&T Express,Express,Banten,28850,1,1,On-Time,5.0
+LOG-7020,SiCepat Ekspres,Regular,Banten,10977,3,3,On-Time,4.0
+LOG-7021,J&T Express,Regular,Jawa Timur,19542,3,3,On-Time,5.0
+LOG-7022,AnterAja,Regular,DKI Jakarta,12552,3,3,On-Time,5.0
+LOG-7023,AnterAja,Regular,Jawa Barat,17322,3,6,Delayed,2.5
+LOG-7024,J&T Express,Regular,Jawa Tengah,10790,2,2,On-Time,5.0
+LOG-7025,J&T Express,Express,Jawa Timur,32372,1,1,On-Time,5.0
+LOG-7026,SiCepat Ekspres,Regular,Bali,19641,2,3,Delayed,2.5
+LOG-7027,GoSend,Same-Day,Banten,52639,0,0,On-Time,4.8
+LOG-7028,JNE Express,Same-Day,DKI Jakarta,40192,0,0,On-Time,5.0
+LOG-7029,SiCepat Ekspres,Regular,Sumatera Utara,17765,2,2,On-Time,5.0
+LOG-7030,GoSend,Regular,Banten,15941,3,3,On-Time,4.8
+LOG-7031,JNE Express,Express,Jawa Timur,28632,1,1,On-Time,4.5
+LOG-7032,JNE Express,Regular,Jawa Barat,10595,2,2,On-Time,4.5
+LOG-7033,JNE Express,Regular,Bali,19682,4,5,Delayed,2.5
+LOG-7034,JNE Express,Regular,Jawa Timur,13992,3,3,On-Time,4.5
+LOG-7035,GrabExpress,Express,Sumatera Utara,31383,1,1,On-Time,4.8
+LOG-7036,J&T Express,Express,Sumatera Utara,20494,1,1,On-Time,4.5
+LOG-7037,AnterAja,Regular,Jawa Barat,11516,2,2,On-Time,4.0
+LOG-7038,AnterAja,Regular,DKI Jakarta,14803,4,4,On-Time,5.0
+LOG-7039,JNE Express,Express,Sumatera Utara,27524,1,1,On-Time,5.0
+LOG-7040,JNE Express,Regular,Jawa Tengah,15287,3,3,On-Time,5.0
+LOG-7041,GoSend,Regular,Sumatera Utara,19001,2,2,On-Time,5.0
+LOG-7042,GoSend,Regular,Jawa Tengah,10692,3,3,On-Time,4.8
+LOG-7043,GoSend,Express,Bali,28242,1,3,Delayed,3.0
+LOG-7044,JNE Express,Express,Sumatera Utara,28883,1,1,On-Time,4.5
+LOG-7045,JNE Express,Regular,Jawa Tengah,15563,3,3,On-Time,5.0
+LOG-7046,SiCepat Ekspres,Regular,DKI Jakarta,9808,3,3,On-Time,5.0
+LOG-7047,J&T Express,Same-Day,Jawa Timur,42277,0,0,On-Time,4.8
+LOG-7048,GoSend,Regular,Jawa Timur,13253,3,3,On-Time,4.8
+LOG-7049,J&T Express,Same-Day,Bali,27848,0,0,On-Time,5.0
+LOG-7050,JNE Express,Express,Banten,30952,1,1,On-Time,4.5
+LOG-7051,J&T Express,Express,Jawa Timur,26514,1,1,On-Time,4.0
+LOG-7052,JNE Express,Cargo,Jawa Barat,145677,7,7,On-Time,5.0
+LOG-7053,J&T Express,Same-Day,Jawa Barat,48403,0,0,On-Time,4.8
+LOG-7054,GoSend,Express,Jawa Tengah,27748,1,1,On-Time,4.8
+LOG-7055,J&T Express,Express,Sumatera Utara,33322,1,4,Delayed,2.5
+LOG-7056,JNE Express,Express,Jawa Tengah,30614,1,1,On-Time,4.0
+LOG-7057,J&T Express,Express,Jawa Timur,27249,1,1,On-Time,5.0
+LOG-7058,SiCepat Ekspres,Regular,Banten,11041,3,3,On-Time,5.0
+LOG-7059,SiCepat Ekspres,Regular,Banten,17488,3,3,On-Time,4.5
+LOG-7060,SiCepat Ekspres,Regular,Sumatera Utara,14322,3,3,On-Time,4.5
+LOG-7061,J&T Express,Cargo,Jawa Tengah,77987,6,6,On-Time,4.5
+LOG-7062,AnterAja,Regular,Jawa Timur,15511,4,4,On-Time,4.0
+LOG-7063,J&T Express,Same-Day,DKI Jakarta,26398,0,0,On-Time,4.8
+LOG-7064,GoSend,Regular,Bali,11251,2,2,On-Time,5.0
+LOG-7065,GoSend,Cargo,Sumatera Utara,135482,6,6,On-Time,4.5
+LOG-7066,SiCepat Ekspres,Regular,Jawa Timur,16110,2,2,On-Time,4.0
+LOG-7067,GoSend,Cargo,Jawa Tengah,134779,5,5,On-Time,4.8
+LOG-7068,J&T Express,Cargo,Jawa Timur,61682,6,6,On-Time,5.0
+LOG-7069,AnterAja,Regular,Sumatera Utara,12536,4,4,On-Time,4.8
+LOG-7070,J&T Express,Same-Day,Sumatera Utara,45759,0,0,On-Time,5.0
+LOG-7071,GoSend,Regular,Jawa Timur,18177,3,3,On-Time,4.5
+LOG-7072,GoSend,Express,DKI Jakarta,26708,1,1,On-Time,4.5
+LOG-7073,AnterAja,Express,Jawa Timur,18032,1,1,On-Time,4.8
+LOG-7074,J&T Express,Express,Jawa Timur,18264,1,1,On-Time,5.0
+LOG-7075,J&T Express,Regular,Banten,14654,2,2,On-Time,5.0
+LOG-7076,J&T Express,Regular,Banten,18565,2,2,On-Time,4.5
+LOG-7077,JNE Express,Express,Bali,26591,1,1,On-Time,4.8
+LOG-7078,AnterAja,Express,Bali,26564,1,1,On-Time,4.5
+LOG-7079,JNE Express,Cargo,Banten,80039,6,6,On-Time,4.8
+LOG-7080,SiCepat Ekspres,Regular,Sumatera Utara,14322,2,2,On-Time,4.0
+LOG-7081,J&T Express,Cargo,Jawa Timur,66452,5,5,On-Time,4.5
+LOG-7082,JNE Express,Express,Banten,31435,1,4,Delayed,2.5
+LOG-7083,SiCepat Ekspres,Regular,Sumatera Utara,15916,4,4,On-Time,4.8
+LOG-7084,AnterAja,Same-Day,Jawa Barat,28960,0,0,On-Time,5.0
+LOG-7085,AnterAja,Express,Banten,25917,1,4,Delayed,3.5
+LOG-7086,JNE Express,Same-Day,Sumatera Utara,52301,0,0,On-Time,4.0
+LOG-7087,JNE Express,Express,Banten,28994,1,1,On-Time,5.0
+LOG-7088,AnterAja,Regular,Sumatera Utara,15568,2,2,On-Time,4.0
+LOG-7089,JNE Express,Regular,Bali,14022,2,4,Delayed,2.5
+LOG-7090,AnterAja,Regular,Jawa Tengah,15413,3,3,On-Time,4.5
+LOG-7091,JNE Express,Express,Sumatera Utara,30726,1,1,On-Time,4.8
+LOG-7092,JNE Express,Express,Jawa Barat,19686,1,1,On-Time,4.8
+LOG-7093,AnterAja,Regular,Jawa Timur,9599,4,4,On-Time,4.5
+LOG-7094,GoSend,Express,Jawa Barat,33951,1,1,On-Time,5.0
+LOG-7095,AnterAja,Regular,Jawa Timur,18903,4,4,On-Time,4.8
+LOG-7096,SiCepat Ekspres,Same-Day,Bali,53208,0,0,On-Time,4.5
+LOG-7097,AnterAja,Regular,Sumatera Utara,19831,3,3,On-Time,4.8
+LOG-7098,J&T Express,Regular,Jawa Tengah,18616,4,4,On-Time,5.0
+LOG-7099,AnterAja,Regular,Jawa Tengah,19622,3,4,Delayed,3.0
+LOG-7100,AnterAja,Regular,Jawa Timur,18413,3,3,On-Time,4.5
+LOG-7101,AnterAja,Express,DKI Jakarta,22544,1,1,On-Time,5.0
+LOG-7102,AnterAja,Cargo,DKI Jakarta,101984,5,5,On-Time,4.8
+LOG-7103,SiCepat Ekspres,Same-Day,Banten,37988,0,3,Delayed,2.5
+LOG-7104,AnterAja,Cargo,Jawa Tengah,99000,5,8,Delayed,3.0
+LOG-7105,SiCepat Ekspres,Cargo,Banten,50175,5,5,On-Time,5.0
+LOG-7106,AnterAja,Regular,Jawa Timur,14571,2,2,On-Time,5.0
+LOG-7107,JNE Express,Cargo,Jawa Barat,99535,5,5,On-Time,4.5
+LOG-7108,JNE Express,Express,Banten,19428,1,1,On-Time,5.0
+LOG-7109,GrabExpress,Regular,Jawa Barat,9080,4,4,On-Time,5.0
+LOG-7110,SiCepat Ekspres,Regular,Bali,15805,4,4,On-Time,4.8
+LOG-7111,SiCepat Ekspres,Regular,Jawa Barat,17028,4,4,On-Time,4.8
+LOG-7112,SiCepat Ekspres,Express,Banten,28333,1,2,Delayed,3.5
+LOG-7113,J&T Express,Regular,Jawa Barat,12576,2,2,On-Time,5.0
+LOG-7114,AnterAja,Regular,Jawa Tengah,18604,4,4,On-Time,4.5
+LOG-7115,JNE Express,Same-Day,Jawa Timur,38536,0,0,On-Time,5.0
+LOG-7116,SiCepat Ekspres,Express,DKI Jakarta,30725,1,1,On-Time,5.0
+LOG-7117,J&T Express,Regular,Sumatera Utara,10522,3,5,Delayed,3.0
+LOG-7118,AnterAja,Express,Bali,19498,1,4,Delayed,3.0
+LOG-7119,AnterAja,Regular,Jawa Tengah,14854,2,2,On-Time,4.8
+LOG-7120,J&T Express,Regular,DKI Jakarta,18045,4,5,Delayed,2.5
+LOG-7121,GoSend,Regular,Sumatera Utara,14074,3,3,On-Time,5.0
+LOG-7122,GrabExpress,Express,Bali,32417,1,4,Delayed,3.0
+LOG-7123,J&T Express,Regular,DKI Jakarta,9963,4,5,Delayed,2.5
+LOG-7124,GoSend,Regular,Sumatera Utara,12730,2,2,On-Time,4.8
+LOG-7125,JNE Express,Express,Jawa Timur,22646,1,1,On-Time,4.0
+LOG-7126,AnterAja,Regular,Jawa Barat,15907,3,3,On-Time,4.8
+LOG-7127,JNE Express,Express,Bali,27525,1,1,On-Time,5.0
+LOG-7128,AnterAja,Regular,Jawa Timur,9987,4,4,On-Time,5.0
+LOG-7129,AnterAja,Regular,Sumatera Utara,17254,4,4,On-Time,5.0
+LOG-7130,J&T Express,Cargo,Jawa Timur,63809,6,6,On-Time,4.8
+LOG-7131,J&T Express,Regular,Jawa Timur,13551,2,2,On-Time,5.0
+LOG-7132,J&T Express,Regular,Jawa Tengah,9738,2,3,Delayed,3.5
+LOG-7133,J&T Express,Regular,DKI Jakarta,14424,2,2,On-Time,5.0
+LOG-7134,JNE Express,Regular,Jawa Barat,11346,3,3,On-Time,4.8
+LOG-7135,JNE Express,Regular,Jawa Tengah,11469,4,4,On-Time,5.0
+LOG-7136,JNE Express,Same-Day,Jawa Barat,35990,0,0,On-Time,4.5
+LOG-7137,SiCepat Ekspres,Regular,Jawa Tengah,17336,3,3,On-Time,4.8
+LOG-7138,J&T Express,Express,Banten,28459,1,4,Delayed,3.0
+LOG-7139,JNE Express,Same-Day,Bali,53004,0,0,On-Time,5.0
+LOG-7140,SiCepat Ekspres,Express,Banten,22491,1,4,Delayed,2.5
+LOG-7141,AnterAja,Same-Day,Jawa Tengah,31014,0,0,On-Time,4.5
+LOG-7142,SiCepat Ekspres,Cargo,Banten,76064,5,5,On-Time,4.5
+LOG-7143,J&T Express,Regular,DKI Jakarta,14149,4,5,Delayed,2.5
+LOG-7144,AnterAja,Same-Day,Jawa Timur,49915,0,0,On-Time,4.8
+LOG-7145,J&T Express,Express,Jawa Barat,32934,1,1,On-Time,5.0
+LOG-7146,J&T Express,Same-Day,Bali,31301,0,0,On-Time,4.0
+LOG-7147,SiCepat Ekspres,Express,Sumatera Utara,24906,1,1,On-Time,5.0
+LOG-7148,J&T Express,Express,Sumatera Utara,29536,1,1,On-Time,4.0
+LOG-7149,J&T Express,Regular,Jawa Timur,9645,3,3,On-Time,4.5
+LOG-7150,JNE Express,Express,Sumatera Utara,21881,1,3,Delayed,4.0
+LOG-7151,JNE Express,Express,Jawa Barat,19988,1,1,On-Time,5.0
+LOG-7152,AnterAja,Same-Day,Jawa Barat,39966,0,0,On-Time,4.5
+LOG-7153,SiCepat Ekspres,Regular,Sumatera Utara,10626,2,2,On-Time,4.5
+LOG-7154,JNE Express,Regular,DKI Jakarta,18253,2,2,On-Time,4.5
+LOG-7155,JNE Express,Regular,Jawa Tengah,12699,2,2,On-Time,5.0
+LOG-7156,SiCepat Ekspres,Regular,Bali,14295,4,4,On-Time,4.8
+LOG-7157,J&T Express,Cargo,Banten,114416,7,7,On-Time,5.0
+LOG-7158,J&T Express,Regular,DKI Jakarta,17924,2,2,On-Time,4.8
+LOG-7159,J&T Express,Cargo,Bali,62724,7,9,Delayed,3.5
+LOG-7160,JNE Express,Regular,Jawa Tengah,14047,2,2,On-Time,4.8
+LOG-7161,JNE Express,Regular,Banten,9831,2,2,On-Time,4.5
+LOG-7162,SiCepat Ekspres,Express,Jawa Timur,20567,1,1,On-Time,4.0
+LOG-7163,SiCepat Ekspres,Regular,Banten,10420,4,4,On-Time,5.0
+LOG-7164,SiCepat Ekspres,Same-Day,Jawa Timur,50232,0,0,On-Time,4.5
+LOG-7165,AnterAja,Express,Jawa Barat,21529,1,1,On-Time,4.8
+LOG-7166,GrabExpress,Cargo,Jawa Tengah,91409,5,5,On-Time,4.5
+LOG-7167,SiCepat Ekspres,Regular,DKI Jakarta,13641,4,4,On-Time,4.8
+LOG-7168,GrabExpress,Express,Jawa Timur,21733,1,1,On-Time,4.8
+LOG-7169,AnterAja,Regular,Bali,18625,2,2,On-Time,4.0
+LOG-7170,GrabExpress,Cargo,Jawa Tengah,123339,5,5,On-Time,4.8
+LOG-7171,J&T Express,Express,Banten,28060,1,1,On-Time,4.8
+LOG-7172,J&T Express,Regular,Jawa Timur,18896,4,4,On-Time,5.0
+LOG-7173,J&T Express,Regular,Sumatera Utara,10061,4,4,On-Time,4.8
+LOG-7174,J&T Express,Cargo,Jawa Barat,94631,6,6,On-Time,5.0
+LOG-7175,J&T Express,Regular,Jawa Barat,16704,3,3,On-Time,4.8
+LOG-7176,J&T Express,Cargo,Sumatera Utara,54470,5,5,On-Time,4.0
+LOG-7177,JNE Express,Express,DKI Jakarta,20272,1,1,On-Time,4.0
+LOG-7178,JNE Express,Express,Jawa Barat,34422,1,1,On-Time,4.8
+LOG-7179,JNE Express,Express,Jawa Timur,19454,1,1,On-Time,5.0
+LOG-7180,GrabExpress,Cargo,Jawa Tengah,60491,5,5,On-Time,5.0
+LOG-7181,JNE Express,Same-Day,Banten,29607,0,0,On-Time,5.0
+LOG-7182,SiCepat Ekspres,Cargo,Jawa Tengah,112436,5,5,On-Time,4.0
+LOG-7183,AnterAja,Regular,Jawa Barat,14536,2,2,On-Time,5.0
+LOG-7184,AnterAja,Regular,Jawa Timur,17764,3,3,On-Time,4.8
+LOG-7185,GoSend,Regular,Bali,12708,3,4,Delayed,3.5
+LOG-7186,J&T Express,Cargo,Jawa Tengah,136499,7,7,On-Time,5.0
+LOG-7187,GoSend,Regular,Bali,13650,2,3,Delayed,2.5
+LOG-7188,SiCepat Ekspres,Regular,Jawa Tengah,17555,3,3,On-Time,4.8
+LOG-7189,JNE Express,Cargo,Banten,90871,6,6,On-Time,4.0
+LOG-7190,JNE Express,Regular,Banten,14824,2,2,On-Time,4.8
+LOG-7191,J&T Express,Regular,Jawa Timur,10159,2,2,On-Time,4.5
+LOG-7192,J&T Express,Regular,Sumatera Utara,14247,4,4,On-Time,4.5
+LOG-7193,JNE Express,Regular,Jawa Barat,10414,4,4,On-Time,4.0
+LOG-7194,J&T Express,Regular,Jawa Timur,19424,4,4,On-Time,5.0
+LOG-7195,J&T Express,Regular,Jawa Timur,14933,3,3,On-Time,4.8
+LOG-7196,GoSend,Regular,Sumatera Utara,10091,4,4,On-Time,4.0
+LOG-7197,J&T Express,Regular,Banten,11279,3,3,On-Time,5.0
+LOG-7198,SiCepat Ekspres,Same-Day,Bali,50075,0,0,On-Time,4.5
+LOG-7199,J&T Express,Regular,Bali,11152,3,5,Delayed,2.5
+LOG-7200,J&T Express,Express,Jawa Barat,34709,1,1,On-Time,4.8
+LOG-7201,SiCepat Ekspres,Express,Banten,23788,1,1,On-Time,4.0
+LOG-7202,SiCepat Ekspres,Express,Sumatera Utara,21126,1,2,Delayed,4.0
+LOG-7203,JNE Express,Express,Bali,34993,1,1,On-Time,5.0
+LOG-7204,SiCepat Ekspres,Cargo,Bali,80237,7,7,On-Time,4.8
+LOG-7205,J&T Express,Same-Day,Banten,44862,0,1,Delayed,3.0
+LOG-7206,GoSend,Express,Sumatera Utara,28039,1,2,Delayed,2.5
+LOG-7207,GoSend,Regular,Bali,15544,3,3,On-Time,4.0
+LOG-7208,AnterAja,Same-Day,Jawa Timur,44848,0,0,On-Time,4.8
+LOG-7209,GoSend,Regular,Jawa Tengah,12222,2,2,On-Time,4.8
+LOG-7210,JNE Express,Cargo,Sumatera Utara,59075,6,6,On-Time,4.8
+LOG-7211,J&T Express,Express,Sumatera Utara,30096,1,1,On-Time,4.8
+LOG-7212,SiCepat Ekspres,Same-Day,DKI Jakarta,49616,0,0,On-Time,4.0
+LOG-7213,JNE Express,Regular,DKI Jakarta,12914,2,2,On-Time,5.0
+LOG-7214,SiCepat Ekspres,Cargo,Bali,78415,7,7,On-Time,4.8
+LOG-7215,JNE Express,Express,Jawa Tengah,19262,1,3,Delayed,2.5
+LOG-7216,JNE Express,Regular,Jawa Barat,17233,4,4,On-Time,4.8
+LOG-7217,J&T Express,Regular,Jawa Tengah,14675,2,2,On-Time,5.0
+LOG-7218,J&T Express,Cargo,Banten,130570,7,7,On-Time,4.8
+LOG-7219,GrabExpress,Regular,Jawa Barat,11373,2,2,On-Time,4.8
+LOG-7220,J&T Express,Regular,Jawa Timur,11373,2,2,On-Time,5.0
+LOG-7221,J&T Express,Express,Bali,31959,1,4,Delayed,2.5
+LOG-7222,J&T Express,Regular,Bali,11762,2,5,Delayed,2.5
+LOG-7223,JNE Express,Regular,Jawa Barat,16974,2,2,On-Time,4.5
+LOG-7224,GrabExpress,Regular,Jawa Barat,11457,3,3,On-Time,4.0
+LOG-7225,GoSend,Regular,Jawa Barat,10747,4,4,On-Time,5.0
+LOG-7226,SiCepat Ekspres,Regular,Sumatera Utara,13379,3,3,On-Time,4.8
+LOG-7227,J&T Express,Express,Banten,21833,1,1,On-Time,4.5
+LOG-7228,GoSend,Regular,Jawa Tengah,13174,4,4,On-Time,5.0
+LOG-7229,SiCepat Ekspres,Regular,Sumatera Utara,13931,2,2,On-Time,5.0
+LOG-7230,JNE Express,Same-Day,Sumatera Utara,34816,0,0,On-Time,4.8
+LOG-7231,JNE Express,Regular,Sumatera Utara,19209,4,5,Delayed,4.0
+LOG-7232,SiCepat Ekspres,Express,Bali,24455,1,1,On-Time,4.8
+LOG-7233,SiCepat Ekspres,Cargo,Jawa Barat,110023,5,5,On-Time,4.5
+LOG-7234,AnterAja,Regular,DKI Jakarta,17598,4,6,Delayed,3.5
+LOG-7235,GoSend,Cargo,Jawa Barat,93329,7,7,On-Time,4.5
+LOG-7236,JNE Express,Regular,Banten,18203,2,4,Delayed,2.5
+LOG-7237,AnterAja,Cargo,DKI Jakarta,142733,6,6,On-Time,4.0
+LOG-7238,J&T Express,Regular,Jawa Tengah,9640,3,3,On-Time,5.0
+LOG-7239,J&T Express,Regular,DKI Jakarta,17231,3,3,On-Time,4.8
+LOG-7240,JNE Express,Regular,Sumatera Utara,9308,3,3,On-Time,5.0
+LOG-7241,J&T Express,Regular,DKI Jakarta,17429,3,3,On-Time,4.5
+LOG-7242,SiCepat Ekspres,Regular,Banten,14174,2,2,On-Time,4.0
+LOG-7243,GoSend,Regular,Bali,12509,2,2,On-Time,5.0
+LOG-7244,SiCepat Ekspres,Express,Jawa Tengah,31087,1,1,On-Time,4.5
+LOG-7245,JNE Express,Cargo,Bali,66662,5,5,On-Time,4.8
+LOG-7246,JNE Express,Regular,Bali,9960,2,2,On-Time,5.0
+LOG-7247,J&T Express,Cargo,Jawa Timur,65903,7,7,On-Time,4.8
+LOG-7248,J&T Express,Regular,DKI Jakarta,9112,4,4,On-Time,4.8
+LOG-7249,GoSend,Regular,Jawa Tengah,17207,4,4,On-Time,4.8
+LOG-7250,GoSend,Cargo,Jawa Timur,88718,7,7,On-Time,4.5
+LOG-7251,J&T Express,Regular,Jawa Barat,11137,2,2,On-Time,4.5
+LOG-7252,J&T Express,Regular,Banten,18424,3,3,On-Time,4.8
+LOG-7253,JNE Express,Cargo,Jawa Barat,57248,6,6,On-Time,5.0
+LOG-7254,J&T Express,Regular,Jawa Timur,15797,2,2,On-Time,5.0
+LOG-7255,SiCepat Ekspres,Same-Day,Bali,44667,0,0,On-Time,4.8
+LOG-7256,SiCepat Ekspres,Express,Sumatera Utara,23971,1,1,On-Time,5.0
+LOG-7257,GoSend,Express,Jawa Timur,32715,1,1,On-Time,5.0
+LOG-7258,JNE Express,Express,Jawa Barat,18362,1,1,On-Time,4.5
+LOG-7259,JNE Express,Express,DKI Jakarta,29461,1,1,On-Time,5.0
+LOG-7260,J&T Express,Same-Day,Banten,42546,0,0,On-Time,4.8
+LOG-7261,JNE Express,Express,Bali,28465,1,1,On-Time,5.0
+LOG-7262,GoSend,Express,Jawa Tengah,26212,1,1,On-Time,5.0
+LOG-7263,J&T Express,Regular,Jawa Timur,11387,2,2,On-Time,5.0
+LOG-7264,AnterAja,Regular,Jawa Barat,10986,3,3,On-Time,4.8
+LOG-7265,JNE Express,Same-Day,DKI Jakarta,56724,0,0,On-Time,4.8
+LOG-7266,AnterAja,Regular,Jawa Barat,19880,2,2,On-Time,5.0
+LOG-7267,AnterAja,Regular,Sumatera Utara,11326,2,2,On-Time,5.0
+LOG-7268,J&T Express,Express,Sumatera Utara,22966,1,1,On-Time,5.0
+LOG-7269,J&T Express,Regular,Jawa Timur,17029,4,4,On-Time,4.5
+LOG-7270,JNE Express,Cargo,Banten,95186,5,5,On-Time,5.0
+LOG-7271,SiCepat Ekspres,Express,Jawa Timur,19767,1,1,On-Time,5.0
+LOG-7272,AnterAja,Same-Day,Sumatera Utara,31941,0,0,On-Time,5.0
+LOG-7273,J&T Express,Cargo,Banten,107484,7,7,On-Time,4.5
+LOG-7274,JNE Express,Express,Sumatera Utara,19321,1,1,On-Time,4.8
+LOG-7275,JNE Express,Regular,DKI Jakarta,17462,4,4,On-Time,4.8
+LOG-7276,AnterAja,Regular,Bali,11175,2,2,On-Time,4.5
+LOG-7277,JNE Express,Express,DKI Jakarta,21701,1,2,Delayed,3.0
+LOG-7278,J&T Express,Express,Jawa Tengah,32162,1,1,On-Time,5.0
+LOG-7279,SiCepat Ekspres,Regular,Banten,17609,3,6,Delayed,2.5
+LOG-7280,AnterAja,Regular,Jawa Timur,16544,4,4,On-Time,4.5
+LOG-7281,SiCepat Ekspres,Regular,Banten,9190,4,4,On-Time,4.5
+LOG-7282,GrabExpress,Express,Jawa Tengah,32651,1,1,On-Time,4.8
+LOG-7283,J&T Express,Same-Day,Bali,37699,0,0,On-Time,4.5
+LOG-7284,J&T Express,Cargo,Banten,118820,7,7,On-Time,5.0
+LOG-7285,JNE Express,Regular,Jawa Barat,16298,2,2,On-Time,5.0
+LOG-7286,AnterAja,Same-Day,Jawa Tengah,39423,0,0,On-Time,5.0
+LOG-7287,GoSend,Express,Jawa Barat,26870,1,1,On-Time,5.0
+LOG-7288,JNE Express,Regular,Jawa Tengah,19632,4,4,On-Time,5.0
+LOG-7289,GoSend,Same-Day,DKI Jakarta,26132,0,0,On-Time,4.5
+LOG-7290,GrabExpress,Regular,Jawa Timur,9827,4,6,Delayed,3.0
+LOG-7291,GoSend,Cargo,DKI Jakarta,60185,7,9,Delayed,3.0
+LOG-7292,SiCepat Ekspres,Regular,Banten,13425,3,4,Delayed,4.0
+LOG-7293,J&T Express,Regular,DKI Jakarta,16910,2,5,Delayed,3.5
+LOG-7294,SiCepat Ekspres,Regular,Banten,19332,3,3,On-Time,5.0
+LOG-7295,J&T Express,Cargo,Jawa Timur,85335,5,5,On-Time,4.5
+LOG-7296,JNE Express,Same-Day,DKI Jakarta,26445,0,0,On-Time,4.5
+LOG-7297,JNE Express,Regular,Bali,16351,4,4,On-Time,5.0
+LOG-7298,GoSend,Regular,Jawa Tengah,19217,2,2,On-Time,5.0
+LOG-7299,J&T Express,Regular,Bali,18993,2,2,On-Time,4.5
+LOG-7300,JNE Express,Regular,Jawa Barat,18294,2,2,On-Time,5.0
+LOG-7301,GoSend,Regular,Jawa Tengah,9304,2,2,On-Time,4.8
+LOG-7302,JNE Express,Regular,Sumatera Utara,9251,3,3,On-Time,5.0
+LOG-7303,JNE Express,Regular,Jawa Tengah,19073,2,2,On-Time,5.0
+LOG-7304,J&T Express,Express,Jawa Timur,31389,1,1,On-Time,4.8
+LOG-7305,GoSend,Same-Day,Bali,30472,0,0,On-Time,4.8
+LOG-7306,GoSend,Same-Day,Jawa Timur,31359,0,0,On-Time,5.0
+LOG-7307,GrabExpress,Express,Banten,30529,1,3,Delayed,4.0
+LOG-7308,SiCepat Ekspres,Regular,Sumatera Utara,16211,4,4,On-Time,5.0
+LOG-7309,J&T Express,Cargo,Jawa Tengah,100317,5,6,Delayed,3.0
+LOG-7310,SiCepat Ekspres,Same-Day,DKI Jakarta,37850,0,0,On-Time,5.0
+LOG-7311,SiCepat Ekspres,Regular,Jawa Timur,13019,3,3,On-Time,5.0
+LOG-7312,AnterAja,Regular,DKI Jakarta,14657,3,3,On-Time,4.8
+LOG-7313,J&T Express,Regular,Bali,17680,3,3,On-Time,4.5
+LOG-7314,GrabExpress,Regular,Bali,12557,4,4,On-Time,4.0
+LOG-7315,SiCepat Ekspres,Regular,DKI Jakarta,12278,3,3,On-Time,4.5
+LOG-7316,GoSend,Regular,Sumatera Utara,9199,2,2,On-Time,5.0
+LOG-7317,J&T Express,Regular,Banten,13403,3,3,On-Time,4.8
+LOG-7318,SiCepat Ekspres,Same-Day,Bali,30044,0,1,Delayed,4.0
+LOG-7319,JNE Express,Regular,Sumatera Utara,17129,4,4,On-Time,4.0
+LOG-7320,GoSend,Regular,DKI Jakarta,19182,4,4,On-Time,4.0
+LOG-7321,SiCepat Ekspres,Express,Bali,24785,1,1,On-Time,4.0
+LOG-7322,SiCepat Ekspres,Regular,Banten,11040,3,3,On-Time,4.8
+LOG-7323,SiCepat Ekspres,Regular,Banten,18409,3,3,On-Time,5.0
+LOG-7324,J&T Express,Express,Jawa Tengah,28649,1,1,On-Time,4.8
+LOG-7325,SiCepat Ekspres,Regular,Sumatera Utara,9609,4,4,On-Time,4.5
+LOG-7326,JNE Express,Regular,Jawa Timur,17599,4,4,On-Time,5.0
+LOG-7327,SiCepat Ekspres,Express,DKI Jakarta,32439,1,1,On-Time,4.5
+LOG-7328,SiCepat Ekspres,Regular,Banten,18576,4,4,On-Time,4.8
+LOG-7329,JNE Express,Regular,Jawa Barat,18156,3,3,On-Time,4.8
+LOG-7330,SiCepat Ekspres,Regular,Sumatera Utara,15632,3,3,On-Time,5.0
+LOG-7331,SiCepat Ekspres,Regular,Jawa Timur,15162,4,4,On-Time,4.5
+LOG-7332,GrabExpress,Express,Sumatera Utara,33764,1,1,On-Time,4.0
+LOG-7333,AnterAja,Express,DKI Jakarta,26286,1,1,On-Time,5.0
+LOG-7334,SiCepat Ekspres,Cargo,Jawa Barat,56507,5,7,Delayed,3.5
+LOG-7335,SiCepat Ekspres,Regular,DKI Jakarta,14421,2,2,On-Time,5.0
+LOG-7336,JNE Express,Same-Day,Jawa Timur,47027,0,0,On-Time,4.0
+LOG-7337,JNE Express,Express,Jawa Timur,31985,1,1,On-Time,4.0
+LOG-7338,JNE Express,Regular,Banten,18234,2,2,On-Time,5.0
+LOG-7339,JNE Express,Same-Day,Jawa Barat,28149,0,0,On-Time,5.0
+LOG-7340,J&T Express,Regular,Banten,15489,3,3,On-Time,4.8
+LOG-7341,JNE Express,Cargo,Bali,66721,7,7,On-Time,5.0
+LOG-7342,JNE Express,Regular,Banten,17998,4,4,On-Time,5.0
+LOG-7343,J&T Express,Express,Sumatera Utara,32467,1,1,On-Time,4.8
+LOG-7344,J&T Express,Regular,Jawa Tengah,18070,2,2,On-Time,5.0
+LOG-7345,JNE Express,Express,Jawa Timur,25235,1,1,On-Time,5.0
+LOG-7346,GrabExpress,Same-Day,Jawa Tengah,49286,0,0,On-Time,5.0
+LOG-7347,SiCepat Ekspres,Same-Day,Banten,39102,0,0,On-Time,5.0
+LOG-7348,JNE Express,Regular,Jawa Timur,16904,3,3,On-Time,5.0
+LOG-7349,J&T Express,Same-Day,Bali,40970,0,0,On-Time,4.8
+LOG-7350,JNE Express,Regular,DKI Jakarta,16897,2,2,On-Time,4.5
+LOG-7351,JNE Express,Regular,Jawa Barat,11812,3,3,On-Time,5.0
+LOG-7352,GoSend,Same-Day,Jawa Tengah,46055,0,0,On-Time,5.0
+LOG-7353,J&T Express,Express,DKI Jakarta,26855,1,1,On-Time,5.0
+LOG-7354,AnterAja,Express,Bali,21795,1,1,On-Time,4.5
+LOG-7355,J&T Express,Regular,Sumatera Utara,19102,2,2,On-Time,4.0
+LOG-7356,JNE Express,Same-Day,Banten,42295,0,0,On-Time,5.0
+LOG-7357,SiCepat Ekspres,Regular,Bali,19078,2,2,On-Time,5.0
+LOG-7358,GoSend,Regular,Jawa Barat,10801,4,4,On-Time,5.0
+LOG-7359,AnterAja,Regular,Bali,15299,4,4,On-Time,4.5
+LOG-7360,GoSend,Express,Banten,28631,1,1,On-Time,4.8
+LOG-7361,AnterAja,Regular,Bali,19862,3,3,On-Time,4.5
+LOG-7362,AnterAja,Regular,Banten,17604,3,3,On-Time,4.8
+LOG-7363,AnterAja,Express,Jawa Barat,25563,1,1,On-Time,5.0
+LOG-7364,GrabExpress,Express,Banten,23124,1,4,Delayed,3.0
+LOG-7365,JNE Express,Regular,Jawa Timur,19293,3,5,Delayed,2.5
+LOG-7366,AnterAja,Cargo,DKI Jakarta,117130,7,7,On-Time,4.5
+LOG-7367,J&T Express,Express,DKI Jakarta,25214,1,1,On-Time,4.8
+LOG-7368,J&T Express,Cargo,Jawa Tengah,81085,5,5,On-Time,5.0
+LOG-7369,JNE Express,Same-Day,Jawa Tengah,40776,0,0,On-Time,4.0
+LOG-7370,JNE Express,Regular,Bali,19747,3,3,On-Time,5.0
+LOG-7371,AnterAja,Same-Day,Jawa Tengah,29559,0,0,On-Time,4.0
+LOG-7372,SiCepat Ekspres,Regular,Banten,16756,3,6,Delayed,2.5
+LOG-7373,JNE Express,Regular,DKI Jakarta,14420,2,2,On-Time,4.5
+LOG-7374,JNE Express,Express,Jawa Timur,22290,1,1,On-Time,4.5
+LOG-7375,JNE Express,Express,Banten,25453,1,1,On-Time,4.8
+LOG-7376,JNE Express,Regular,Bali,19802,4,4,On-Time,4.8
+LOG-7377,AnterAja,Express,Banten,33234,1,2,Delayed,3.5
+LOG-7378,J&T Express,Regular,Bali,19222,4,6,Delayed,2.5
+LOG-7379,GrabExpress,Regular,Sumatera Utara,15215,3,3,On-Time,4.0
+LOG-7380,AnterAja,Regular,DKI Jakarta,12081,3,3,On-Time,4.5
+LOG-7381,J&T Express,Regular,Banten,16989,3,6,Delayed,4.0
+LOG-7382,AnterAja,Express,Sumatera Utara,18356,1,1,On-Time,5.0
+LOG-7383,GoSend,Regular,Jawa Tengah,19369,4,4,On-Time,4.8
+LOG-7384,JNE Express,Regular,Sumatera Utara,18127,2,2,On-Time,4.5
+LOG-7385,JNE Express,Cargo,Bali,89347,7,7,On-Time,4.8
+LOG-7386,SiCepat Ekspres,Cargo,Jawa Timur,68283,6,6,On-Time,5.0
+LOG-7387,GrabExpress,Express,Jawa Tengah,24782,1,1,On-Time,5.0
+LOG-7388,SiCepat Ekspres,Express,Jawa Timur,28171,1,1,On-Time,4.8
+LOG-7389,JNE Express,Regular,DKI Jakarta,11480,3,3,On-Time,5.0
+LOG-7390,JNE Express,Express,Jawa Barat,25952,1,1,On-Time,5.0
+LOG-7391,JNE Express,Regular,Jawa Tengah,11342,4,4,On-Time,4.8
+LOG-7392,SiCepat Ekspres,Regular,Sumatera Utara,16461,4,4,On-Time,5.0
+LOG-7393,JNE Express,Express,Jawa Tengah,29361,1,1,On-Time,4.8
+LOG-7394,J&T Express,Same-Day,Jawa Barat,28245,0,0,On-Time,4.0
+LOG-7395,GoSend,Same-Day,Jawa Timur,44184,0,0,On-Time,5.0
+LOG-7396,GoSend,Regular,Sumatera Utara,17209,3,3,On-Time,4.5
+LOG-7397,J&T Express,Regular,Jawa Barat,12759,4,4,On-Time,5.0
+LOG-7398,SiCepat Ekspres,Regular,DKI Jakarta,16843,4,5,Delayed,3.0
+LOG-7399,J&T Express,Same-Day,Jawa Timur,44763,0,0,On-Time,4.0
+LOG-7400,GoSend,Same-Day,DKI Jakarta,52573,0,0,On-Time,4.0
+LOG-7401,JNE Express,Regular,Jawa Tengah,10323,2,2,On-Time,4.0
+LOG-7402,JNE Express,Cargo,Sumatera Utara,136209,6,9,Delayed,3.0
+LOG-7403,GoSend,Express,Jawa Barat,19438,1,1,On-Time,4.5
+LOG-7404,SiCepat Ekspres,Express,Sumatera Utara,19675,1,3,Delayed,2.5
+LOG-7405,JNE Express,Regular,DKI Jakarta,9803,3,3,On-Time,5.0
+LOG-7406,JNE Express,Regular,DKI Jakarta,10082,2,2,On-Time,5.0
+LOG-7407,SiCepat Ekspres,Express,Jawa Timur,31053,1,3,Delayed,3.0
+LOG-7408,JNE Express,Express,DKI Jakarta,21500,1,1,On-Time,4.5
+LOG-7409,AnterAja,Regular,Jawa Barat,13275,4,4,On-Time,4.8
+LOG-7410,JNE Express,Cargo,Jawa Timur,109699,6,6,On-Time,5.0
+LOG-7411,SiCepat Ekspres,Express,Jawa Barat,34119,1,2,Delayed,2.5
+LOG-7412,J&T Express,Cargo,Sumatera Utara,95984,7,7,On-Time,5.0
+LOG-7413,GoSend,Cargo,DKI Jakarta,135398,6,6,On-Time,4.8
+LOG-7414,J&T Express,Regular,Jawa Timur,13788,2,2,On-Time,5.0
+LOG-7415,SiCepat Ekspres,Regular,Bali,19735,4,4,On-Time,4.8
+LOG-7416,JNE Express,Same-Day,Bali,30239,0,0,On-Time,4.0
+LOG-7417,JNE Express,Express,Bali,24989,1,1,On-Time,4.5
+LOG-7418,GoSend,Regular,Jawa Timur,11084,2,4,Delayed,3.0
+LOG-7419,AnterAja,Express,DKI Jakarta,33820,1,1,On-Time,4.0
+LOG-7420,JNE Express,Cargo,Banten,76742,5,5,On-Time,4.5
+LOG-7421,SiCepat Ekspres,Same-Day,Banten,39324,0,0,On-Time,4.8
+LOG-7422,SiCepat Ekspres,Regular,Jawa Timur,18491,2,2,On-Time,4.8
+LOG-7423,GoSend,Regular,Jawa Barat,13520,2,2,On-Time,5.0
+LOG-7424,AnterAja,Express,Banten,24879,1,1,On-Time,4.5
+LOG-7425,J&T Express,Regular,DKI Jakarta,16937,4,4,On-Time,4.8
+LOG-7426,JNE Express,Regular,Jawa Barat,13243,3,3,On-Time,4.8
+LOG-7427,AnterAja,Same-Day,Jawa Barat,49152,0,0,On-Time,5.0
+LOG-7428,GrabExpress,Regular,Banten,13780,2,2,On-Time,4.8
+LOG-7429,J&T Express,Express,Jawa Timur,24987,1,3,Delayed,3.0
+LOG-7430,J&T Express,Express,Banten,19834,1,1,On-Time,4.5
+LOG-7431,SiCepat Ekspres,Same-Day,Sumatera Utara,35398,0,0,On-Time,4.8
+LOG-7432,JNE Express,Express,Jawa Tengah,34726,1,1,On-Time,4.8
+LOG-7433,AnterAja,Cargo,Bali,53338,6,6,On-Time,4.5
+LOG-7434,J&T Express,Same-Day,DKI Jakarta,58720,0,0,On-Time,5.0
+LOG-7435,JNE Express,Regular,Bali,19148,3,3,On-Time,5.0
+LOG-7436,J&T Express,Regular,Sumatera Utara,13601,2,2,On-Time,4.5
+LOG-7437,AnterAja,Express,Jawa Timur,18913,1,1,On-Time,5.0
+LOG-7438,JNE Express,Same-Day,Jawa Barat,48327,0,0,On-Time,4.8
+LOG-7439,J&T Express,Same-Day,Sumatera Utara,31418,0,0,On-Time,4.0
+LOG-7440,J&T Express,Express,Banten,18789,1,1,On-Time,5.0
+LOG-7441,JNE Express,Express,DKI Jakarta,23476,1,1,On-Time,4.8
+LOG-7442,J&T Express,Cargo,Sumatera Utara,70955,5,8,Delayed,3.0
+LOG-7443,SiCepat Ekspres,Cargo,Jawa Barat,110697,5,5,On-Time,4.8
+LOG-7444,AnterAja,Express,Banten,29925,1,1,On-Time,4.8
+LOG-7445,SiCepat Ekspres,Express,DKI Jakarta,28776,1,1,On-Time,5.0
+LOG-7446,AnterAja,Express,Sumatera Utara,29898,1,1,On-Time,4.8
+LOG-7447,SiCepat Ekspres,Regular,Jawa Barat,13495,4,4,On-Time,5.0
+LOG-7448,AnterAja,Regular,Sumatera Utara,19358,4,4,On-Time,5.0
+LOG-7449,SiCepat Ekspres,Regular,Bali,9410,2,2,On-Time,5.0
+LOG-7450,AnterAja,Regular,DKI Jakarta,13879,3,3,On-Time,5.0
+LOG-7451,JNE Express,Regular,Jawa Barat,11924,4,4,On-Time,4.5
+LOG-7452,SiCepat Ekspres,Regular,Banten,10458,2,2,On-Time,5.0
+LOG-7453,JNE Express,Express,Jawa Timur,26167,1,1,On-Time,4.0
+LOG-7454,JNE Express,Cargo,Bali,75605,6,6,On-Time,5.0
+LOG-7455,J&T Express,Express,Jawa Timur,27753,1,1,On-Time,5.0
+LOG-7456,SiCepat Ekspres,Cargo,Banten,125386,7,7,On-Time,4.8
+LOG-7457,AnterAja,Regular,Sumatera Utara,9498,2,5,Delayed,3.0
+LOG-7458,JNE Express,Regular,Sumatera Utara,15480,4,6,Delayed,2.5
+LOG-7459,GrabExpress,Regular,Jawa Tengah,12797,4,4,On-Time,4.0
+LOG-7460,JNE Express,Cargo,Jawa Timur,51811,7,7,On-Time,4.8
+LOG-7461,SiCepat Ekspres,Regular,Banten,14836,2,5,Delayed,3.0
+LOG-7462,GrabExpress,Regular,Bali,16819,4,4,On-Time,5.0
+LOG-7463,GrabExpress,Regular,Sumatera Utara,9940,4,4,On-Time,5.0
+LOG-7464,J&T Express,Regular,Bali,14349,4,4,On-Time,4.8
+LOG-7465,JNE Express,Regular,Jawa Tengah,18065,3,3,On-Time,4.0
+LOG-7466,SiCepat Ekspres,Express,Jawa Barat,29543,1,1,On-Time,4.5
+LOG-7467,SiCepat Ekspres,Regular,DKI Jakarta,16948,2,2,On-Time,5.0
+LOG-7468,J&T Express,Same-Day,Jawa Barat,37095,0,0,On-Time,5.0
+LOG-7469,SiCepat Ekspres,Regular,Jawa Barat,14806,3,3,On-Time,4.5
+LOG-7470,AnterAja,Regular,Jawa Timur,14353,2,2,On-Time,4.0
+LOG-7471,J&T Express,Regular,Jawa Barat,19283,2,5,Delayed,3.5
+LOG-7472,SiCepat Ekspres,Same-Day,Bali,54302,0,0,On-Time,4.0
+LOG-7473,JNE Express,Same-Day,Jawa Timur,53930,0,0,On-Time,5.0
+LOG-7474,JNE Express,Express,Bali,22474,1,1,On-Time,5.0
+LOG-7475,SiCepat Ekspres,Express,Jawa Timur,30822,1,4,Delayed,2.5
+LOG-7476,SiCepat Ekspres,Express,Jawa Timur,28524,1,1,On-Time,5.0
+LOG-7477,JNE Express,Same-Day,Jawa Tengah,54703,0,0,On-Time,5.0
+LOG-7478,GoSend,Regular,Bali,16334,4,4,On-Time,4.8
+LOG-7479,J&T Express,Express,Jawa Barat,22731,1,1,On-Time,4.8
+LOG-7480,GoSend,Express,Jawa Tengah,25307,1,1,On-Time,4.5
+LOG-7481,SiCepat Ekspres,Regular,Sumatera Utara,11516,3,3,On-Time,5.0
+LOG-7482,J&T Express,Same-Day,Banten,33600,0,0,On-Time,4.8
+LOG-7483,SiCepat Ekspres,Same-Day,DKI Jakarta,58344,0,0,On-Time,4.8
+LOG-7484,GrabExpress,Same-Day,Banten,58633,0,0,On-Time,5.0
+LOG-7485,AnterAja,Express,Jawa Timur,21484,1,1,On-Time,5.0
+LOG-7486,SiCepat Ekspres,Regular,Banten,16722,2,2,On-Time,5.0
+LOG-7487,J&T Express,Regular,Jawa Timur,13049,3,3,On-Time,4.8
+LOG-7488,GoSend,Express,Bali,31236,1,1,On-Time,4.0
+LOG-7489,GoSend,Express,Jawa Timur,28093,1,1,On-Time,5.0
+LOG-7490,J&T Express,Same-Day,Jawa Timur,58582,0,0,On-Time,4.5
+LOG-7491,JNE Express,Express,Jawa Timur,33049,1,1,On-Time,4.8
+LOG-7492,AnterAja,Regular,Banten,11555,4,4,On-Time,4.5
+LOG-7493,SiCepat Ekspres,Same-Day,Jawa Timur,49322,0,0,On-Time,4.5
+LOG-7494,GrabExpress,Regular,Bali,9807,4,4,On-Time,4.8
+LOG-7495,JNE Express,Regular,Sumatera Utara,15471,2,2,On-Time,4.8
+LOG-7496,J&T Express,Same-Day,Bali,53130,0,0,On-Time,4.8
+LOG-7497,J&T Express,Cargo,Jawa Barat,58356,5,5,On-Time,4.8
+LOG-7498,SiCepat Ekspres,Regular,DKI Jakarta,10206,4,4,On-Time,5.0
+LOG-7499,JNE Express,Regular,DKI Jakarta,11467,3,3,On-Time,5.0
+LOG-7500,AnterAja,Regular,Banten,17650,2,2,On-Time,5.0
+LOG-7501,JNE Express,Regular,Banten,10173,3,3,On-Time,4.8
+LOG-7502,SiCepat Ekspres,Express,DKI Jakarta,30990,1,1,On-Time,5.0
+LOG-7503,AnterAja,Express,Sumatera Utara,28086,1,3,Delayed,3.0
+LOG-7504,AnterAja,Regular,Sumatera Utara,14845,4,4,On-Time,4.8
+LOG-7505,SiCepat Ekspres,Regular,Jawa Tengah,18230,3,3,On-Time,4.8
+LOG-7506,J&T Express,Express,Jawa Tengah,22532,1,1,On-Time,4.0
+LOG-7507,AnterAja,Same-Day,Bali,37924,0,0,On-Time,5.0
+LOG-7508,SiCepat Ekspres,Regular,Sumatera Utara,18260,2,2,On-Time,5.0
+LOG-7509,GoSend,Regular,Banten,19631,2,4,Delayed,3.0
+LOG-7510,J&T Express,Same-Day,Bali,32843,0,0,On-Time,5.0
+LOG-7511,J&T Express,Express,Jawa Barat,18297,1,1,On-Time,4.8
+LOG-7512,GoSend,Express,DKI Jakarta,19525,1,4,Delayed,3.5
+LOG-7513,J&T Express,Regular,Sumatera Utara,18004,2,2,On-Time,4.8
+LOG-7514,JNE Express,Regular,Jawa Tengah,16307,3,3,On-Time,4.5
+LOG-7515,J&T Express,Regular,Bali,18056,3,6,Delayed,2.5
+LOG-7516,GoSend,Regular,Sumatera Utara,19223,2,2,On-Time,4.8
+LOG-7517,SiCepat Ekspres,Cargo,Bali,89666,7,7,On-Time,4.8
+LOG-7518,GrabExpress,Regular,Sumatera Utara,12280,2,2,On-Time,4.8
+LOG-7519,AnterAja,Regular,Banten,10149,3,3,On-Time,4.8
+LOG-7520,J&T Express,Same-Day,Banten,54574,0,0,On-Time,4.8
+LOG-7521,J&T Express,Same-Day,Jawa Barat,42316,0,0,On-Time,4.8
+LOG-7522,JNE Express,Regular,Banten,11734,4,4,On-Time,5.0
+LOG-7523,JNE Express,Regular,Jawa Timur,17458,2,2,On-Time,4.5
+LOG-7524,AnterAja,Regular,Banten,16138,4,5,Delayed,3.0
+LOG-7525,JNE Express,Regular,Jawa Timur,19086,4,6,Delayed,4.0
+LOG-7526,SiCepat Ekspres,Express,DKI Jakarta,20928,1,1,On-Time,5.0
+LOG-7527,GoSend,Regular,Jawa Tengah,13937,3,3,On-Time,4.8
+LOG-7528,SiCepat Ekspres,Express,Sumatera Utara,18418,1,1,On-Time,4.8
+LOG-7529,SiCepat Ekspres,Regular,Jawa Barat,12042,3,3,On-Time,4.5
+LOG-7530,SiCepat Ekspres,Express,Banten,19029,1,1,On-Time,4.8
+LOG-7531,AnterAja,Regular,Jawa Tengah,11066,4,4,On-Time,5.0
+LOG-7532,J&T Express,Regular,Banten,11909,3,3,On-Time,4.8
+LOG-7533,J&T Express,Regular,Jawa Timur,13732,3,6,Delayed,3.5
+LOG-7534,J&T Express,Express,Jawa Barat,27552,1,1,On-Time,4.8
+LOG-7535,J&T Express,Regular,Jawa Barat,12802,2,2,On-Time,5.0
+LOG-7536,SiCepat Ekspres,Regular,Sumatera Utara,11290,3,3,On-Time,4.0
+LOG-7537,J&T Express,Regular,Banten,14024,2,2,On-Time,4.0
+LOG-7538,SiCepat Ekspres,Regular,Sumatera Utara,11961,2,2,On-Time,4.8
+LOG-7539,J&T Express,Express,Bali,32911,1,1,On-Time,4.8
+LOG-7540,AnterAja,Regular,Jawa Barat,19592,4,4,On-Time,5.0
+LOG-7541,GrabExpress,Same-Day,Banten,29116,0,0,On-Time,4.0
+LOG-7542,J&T Express,Same-Day,Jawa Timur,46865,0,0,On-Time,5.0
+LOG-7543,AnterAja,Regular,Bali,16159,2,2,On-Time,5.0
+LOG-7544,AnterAja,Cargo,Jawa Tengah,144041,5,5,On-Time,5.0
+LOG-7545,J&T Express,Regular,Bali,9186,4,4,On-Time,4.0
+LOG-7546,JNE Express,Regular,Jawa Timur,16120,3,3,On-Time,5.0
+LOG-7547,J&T Express,Cargo,Sumatera Utara,87043,7,8,Delayed,2.5
+LOG-7548,SiCepat Ekspres,Regular,Jawa Timur,18713,2,2,On-Time,5.0
+LOG-7549,J&T Express,Regular,Jawa Barat,17333,3,3,On-Time,4.8
+LOG-7550,JNE Express,Express,Banten,23297,1,1,On-Time,5.0
+LOG-7551,GoSend,Regular,Banten,12970,3,3,On-Time,4.8
+LOG-7552,GoSend,Same-Day,Banten,47853,0,0,On-Time,5.0
+LOG-7553,JNE Express,Regular,Sumatera Utara,9740,2,2,On-Time,5.0
+LOG-7554,AnterAja,Regular,Jawa Barat,13459,3,3,On-Time,4.8
+LOG-7555,J&T Express,Regular,Bali,16918,3,3,On-Time,5.0
+LOG-7556,GoSend,Regular,Bali,12653,4,4,On-Time,4.5
+LOG-7557,JNE Express,Regular,Banten,19721,4,4,On-Time,5.0
+LOG-7558,JNE Express,Regular,Bali,13617,4,4,On-Time,5.0
+LOG-7559,JNE Express,Regular,Jawa Tengah,12770,4,4,On-Time,4.0
+LOG-7560,J&T Express,Regular,Banten,10889,2,2,On-Time,4.8
+LOG-7561,J&T Express,Regular,Bali,13771,3,3,On-Time,5.0
+LOG-7562,AnterAja,Regular,DKI Jakarta,19889,3,3,On-Time,5.0
+LOG-7563,GoSend,Cargo,Sumatera Utara,64493,6,6,On-Time,4.8
+LOG-7564,J&T Express,Express,Jawa Barat,22385,1,2,Delayed,2.5
+LOG-7565,GoSend,Cargo,Jawa Tengah,144103,5,5,On-Time,5.0
+LOG-7566,AnterAja,Cargo,Sumatera Utara,145772,6,7,Delayed,3.0
+LOG-7567,SiCepat Ekspres,Regular,Bali,12179,2,2,On-Time,4.0
+LOG-7568,J&T Express,Express,Jawa Timur,20567,1,1,On-Time,4.8
+LOG-7569,SiCepat Ekspres,Regular,DKI Jakarta,16413,2,2,On-Time,4.5
+LOG-7570,GoSend,Regular,Banten,13000,3,3,On-Time,5.0
+LOG-7571,J&T Express,Regular,Jawa Timur,13549,3,3,On-Time,4.8
+LOG-7572,GoSend,Regular,Jawa Barat,16262,2,2,On-Time,4.5
+LOG-7573,AnterAja,Same-Day,Jawa Tengah,31772,0,0,On-Time,5.0
+LOG-7574,J&T Express,Express,DKI Jakarta,23227,1,1,On-Time,5.0
+LOG-7575,JNE Express,Express,Sumatera Utara,34073,1,1,On-Time,5.0
+LOG-7576,J&T Express,Cargo,Jawa Tengah,102483,6,8,Delayed,3.5
+LOG-7577,JNE Express,Express,Jawa Tengah,30049,1,4,Delayed,4.0
+LOG-7578,J&T Express,Regular,Sumatera Utara,11127,2,2,On-Time,4.5
+LOG-7579,JNE Express,Express,Banten,19197,1,1,On-Time,4.8
+LOG-7580,J&T Express,Regular,Banten,19831,3,3,On-Time,4.5
+LOG-7581,JNE Express,Express,Banten,30068,1,1,On-Time,4.5
+LOG-7582,J&T Express,Cargo,Jawa Tengah,78441,6,6,On-Time,5.0
+LOG-7583,SiCepat Ekspres,Regular,Bali,19059,2,4,Delayed,2.5
+LOG-7584,JNE Express,Same-Day,Jawa Tengah,47513,0,0,On-Time,5.0
+LOG-7585,SiCepat Ekspres,Regular,Jawa Tengah,15502,3,3,On-Time,5.0
+LOG-7586,AnterAja,Cargo,Jawa Barat,122786,6,6,On-Time,5.0
+LOG-7587,JNE Express,Express,DKI Jakarta,24758,1,1,On-Time,5.0
+LOG-7588,SiCepat Ekspres,Same-Day,Jawa Timur,57077,0,0,On-Time,4.5
+LOG-7589,JNE Express,Express,Jawa Timur,33935,1,1,On-Time,4.5
+LOG-7590,GoSend,Regular,Bali,19708,2,2,On-Time,4.8
+LOG-7591,J&T Express,Same-Day,Jawa Barat,34776,0,0,On-Time,4.8
+LOG-7592,JNE Express,Regular,Banten,9599,2,2,On-Time,4.5
+LOG-7593,J&T Express,Express,Jawa Timur,34839,1,1,On-Time,4.0
+LOG-7594,JNE Express,Cargo,Bali,149906,7,10,Delayed,3.0
+LOG-7595,SiCepat Ekspres,Same-Day,Bali,58489,0,0,On-Time,4.0
+LOG-7596,SiCepat Ekspres,Regular,Jawa Timur,14309,3,3,On-Time,4.8
+LOG-7597,JNE Express,Regular,Sumatera Utara,16133,4,4,On-Time,4.5
+LOG-7598,J&T Express,Regular,DKI Jakarta,12109,2,2,On-Time,5.0
+LOG-7599,GoSend,Express,Banten,34658,1,1,On-Time,4.8
+LOG-7600,AnterAja,Express,Banten,24677,1,1,On-Time,5.0
+LOG-7601,J&T Express,Regular,Jawa Tengah,13133,4,4,On-Time,4.5
+LOG-7602,J&T Express,Regular,Bali,14436,2,3,Delayed,3.0
+LOG-7603,SiCepat Ekspres,Same-Day,Jawa Tengah,36605,0,0,On-Time,5.0
+LOG-7604,J&T Express,Express,Jawa Tengah,22575,1,1,On-Time,5.0
+LOG-7605,GoSend,Regular,DKI Jakarta,14829,4,4,On-Time,5.0
+LOG-7606,J&T Express,Regular,Jawa Timur,10680,3,3,On-Time,5.0
+LOG-7607,J&T Express,Express,Jawa Tengah,27085,1,1,On-Time,4.0
+LOG-7608,J&T Express,Express,Jawa Timur,23760,1,1,On-Time,5.0
+LOG-7609,SiCepat Ekspres,Regular,Banten,15056,2,2,On-Time,4.5
+LOG-7610,GoSend,Same-Day,Jawa Tengah,35013,0,0,On-Time,5.0
+LOG-7611,SiCepat Ekspres,Express,Jawa Tengah,22831,1,2,Delayed,3.0
+LOG-7612,AnterAja,Regular,Sumatera Utara,10077,3,3,On-Time,5.0
+LOG-7613,J&T Express,Same-Day,Sumatera Utara,41267,0,0,On-Time,5.0
+LOG-7614,JNE Express,Regular,Sumatera Utara,15728,4,4,On-Time,4.5
+LOG-7615,AnterAja,Regular,Jawa Barat,12845,3,3,On-Time,5.0
+LOG-7616,J&T Express,Regular,Sumatera Utara,15595,4,4,On-Time,4.8
+LOG-7617,JNE Express,Regular,DKI Jakarta,16460,2,2,On-Time,5.0
+LOG-7618,JNE Express,Cargo,Bali,111869,5,5,On-Time,5.0
+LOG-7619,J&T Express,Express,Bali,33094,1,3,Delayed,2.5
+LOG-7620,JNE Express,Express,DKI Jakarta,31784,1,1,On-Time,4.8
+LOG-7621,J&T Express,Express,Bali,19259,1,1,On-Time,4.5
+LOG-7622,J&T Express,Express,Sumatera Utara,34614,1,1,On-Time,5.0
+LOG-7623,J&T Express,Regular,Banten,14120,2,2,On-Time,4.8
+LOG-7624,SiCepat Ekspres,Express,Banten,33042,1,1,On-Time,4.5
+LOG-7625,JNE Express,Regular,Jawa Tengah,19790,4,4,On-Time,5.0
+LOG-7626,JNE Express,Regular,Sumatera Utara,17489,2,2,On-Time,5.0
+LOG-7627,SiCepat Ekspres,Regular,Jawa Barat,19031,4,4,On-Time,4.5
+LOG-7628,AnterAja,Regular,Bali,17212,3,3,On-Time,4.0
+LOG-7629,J&T Express,Express,Jawa Timur,31134,1,1,On-Time,4.5
+LOG-7630,GoSend,Regular,Jawa Timur,12832,2,2,On-Time,5.0
+LOG-7631,JNE Express,Express,Jawa Timur,25646,1,1,On-Time,4.5
+LOG-7632,JNE Express,Express,DKI Jakarta,24049,1,1,On-Time,4.5
+LOG-7633,SiCepat Ekspres,Regular,Jawa Tengah,17280,4,5,Delayed,2.5
+LOG-7634,JNE Express,Regular,Sumatera Utara,11980,3,3,On-Time,5.0
+LOG-7635,JNE Express,Cargo,Jawa Tengah,144274,7,7,On-Time,4.8
+LOG-7636,GoSend,Express,Jawa Barat,29199,1,1,On-Time,5.0
+LOG-7637,GrabExpress,Regular,DKI Jakarta,14109,2,2,On-Time,5.0
+LOG-7638,JNE Express,Cargo,Banten,103499,5,5,On-Time,5.0
+LOG-7639,J&T Express,Regular,Jawa Timur,15885,2,2,On-Time,5.0
+LOG-7640,J&T Express,Cargo,Jawa Barat,115357,7,7,On-Time,4.5
+LOG-7641,SiCepat Ekspres,Express,Jawa Barat,22633,1,1,On-Time,4.5
+LOG-7642,JNE Express,Regular,Jawa Tengah,15244,4,4,On-Time,5.0
+LOG-7643,SiCepat Ekspres,Express,Banten,32004,1,1,On-Time,5.0
+LOG-7644,J&T Express,Express,Jawa Tengah,29690,1,1,On-Time,5.0
+LOG-7645,AnterAja,Express,Jawa Tengah,26783,1,1,On-Time,4.0
+LOG-7646,J&T Express,Regular,DKI Jakarta,15383,4,7,Delayed,3.0
+LOG-7647,J&T Express,Regular,Jawa Barat,14718,3,3,On-Time,4.8
+LOG-7648,J&T Express,Regular,DKI Jakarta,14778,3,6,Delayed,3.5
+LOG-7649,AnterAja,Regular,Jawa Tengah,17082,3,3,On-Time,4.8
+LOG-7650,GoSend,Cargo,Bali,84864,7,7,On-Time,5.0
+LOG-7651,AnterAja,Regular,Sumatera Utara,9074,4,4,On-Time,5.0
+LOG-7652,J&T Express,Express,Jawa Tengah,22870,1,3,Delayed,2.5
+LOG-7653,AnterAja,Regular,Bali,16355,2,2,On-Time,5.0
+LOG-7654,JNE Express,Regular,DKI Jakarta,11773,4,4,On-Time,5.0
+LOG-7655,J&T Express,Regular,Bali,12861,2,3,Delayed,3.5
+LOG-7656,J&T Express,Cargo,Sumatera Utara,85965,6,6,On-Time,5.0
+LOG-7657,GoSend,Express,Sumatera Utara,25083,1,1,On-Time,4.8
+LOG-7658,J&T Express,Regular,Banten,18854,3,3,On-Time,4.8
+LOG-7659,JNE Express,Regular,Jawa Tengah,16693,3,5,Delayed,3.0
+LOG-7660,J&T Express,Regular,Jawa Barat,17007,3,3,On-Time,5.0
+LOG-7661,J&T Express,Express,Jawa Timur,26945,1,1,On-Time,4.5
+LOG-7662,J&T Express,Express,Bali,19742,1,1,On-Time,5.0
+LOG-7663,GoSend,Regular,Jawa Barat,14289,3,3,On-Time,4.8
+LOG-7664,J&T Express,Express,DKI Jakarta,32186,1,4,Delayed,2.5
+LOG-7665,AnterAja,Regular,Bali,16096,2,2,On-Time,4.8
+LOG-7666,J&T Express,Express,Banten,27337,1,1,On-Time,5.0
+LOG-7667,J&T Express,Regular,DKI Jakarta,10630,2,2,On-Time,4.0
+LOG-7668,GoSend,Regular,Jawa Barat,12875,3,3,On-Time,4.8
+LOG-7669,GoSend,Express,DKI Jakarta,33964,1,1,On-Time,4.5
+LOG-7670,J&T Express,Regular,Jawa Tengah,9431,2,2,On-Time,5.0
+LOG-7671,JNE Express,Regular,Sumatera Utara,18353,3,3,On-Time,4.0
+LOG-7672,AnterAja,Cargo,Jawa Timur,103134,5,5,On-Time,4.0
+LOG-7673,GoSend,Regular,Jawa Tengah,14764,3,3,On-Time,4.0
+LOG-7674,GoSend,Same-Day,Jawa Tengah,35443,0,0,On-Time,4.5
+LOG-7675,AnterAja,Regular,Jawa Barat,10036,3,3,On-Time,4.0
+LOG-7676,J&T Express,Regular,Jawa Timur,16196,2,2,On-Time,4.8
+LOG-7677,SiCepat Ekspres,Regular,DKI Jakarta,10656,2,2,On-Time,5.0
+LOG-7678,J&T Express,Cargo,Jawa Timur,83913,7,7,On-Time,5.0
+LOG-7679,AnterAja,Cargo,Jawa Tengah,91758,7,7,On-Time,5.0
+LOG-7680,J&T Express,Same-Day,Sumatera Utara,32320,0,0,On-Time,4.0
+LOG-7681,JNE Express,Regular,Jawa Barat,17458,2,2,On-Time,5.0
+LOG-7682,J&T Express,Regular,Banten,12974,3,3,On-Time,4.8
+LOG-7683,J&T Express,Express,Bali,24410,1,1,On-Time,5.0
+LOG-7684,JNE Express,Same-Day,Jawa Timur,33675,0,0,On-Time,4.8
+LOG-7685,JNE Express,Regular,Jawa Tengah,14764,4,4,On-Time,5.0
+LOG-7686,AnterAja,Cargo,Jawa Barat,126566,5,5,On-Time,4.8
+LOG-7687,J&T Express,Express,Jawa Barat,24684,1,1,On-Time,4.8
+LOG-7688,GrabExpress,Same-Day,Sumatera Utara,32849,0,0,On-Time,5.0
+LOG-7689,J&T Express,Regular,Jawa Barat,17380,4,5,Delayed,4.0
+LOG-7690,AnterAja,Regular,Banten,19761,4,4,On-Time,4.0
+LOG-7691,GrabExpress,Regular,Jawa Timur,17974,3,3,On-Time,5.0
+LOG-7692,AnterAja,Express,Sumatera Utara,34669,1,4,Delayed,2.5
+LOG-7693,GoSend,Regular,Sumatera Utara,12622,2,2,On-Time,5.0
+LOG-7694,JNE Express,Cargo,Bali,56185,5,5,On-Time,4.8
+LOG-7695,SiCepat Ekspres,Cargo,DKI Jakarta,127753,5,5,On-Time,4.8
+LOG-7696,JNE Express,Express,Jawa Timur,28247,1,1,On-Time,4.8
+LOG-7697,JNE Express,Cargo,DKI Jakarta,135519,6,6,On-Time,5.0
+LOG-7698,SiCepat Ekspres,Regular,Jawa Timur,9961,2,2,On-Time,5.0
+LOG-7699,J&T Express,Same-Day,DKI Jakarta,57120,0,0,On-Time,5.0
+LOG-7700,AnterAja,Regular,DKI Jakarta,11259,4,4,On-Time,4.5
+LOG-7701,JNE Express,Express,DKI Jakarta,25659,1,1,On-Time,4.8
+LOG-7702,GoSend,Regular,Bali,18599,2,2,On-Time,4.8
+LOG-7703,J&T Express,Express,DKI Jakarta,29356,1,1,On-Time,5.0
+LOG-7704,GoSend,Regular,Banten,16539,3,3,On-Time,4.5
+LOG-7705,JNE Express,Cargo,Bali,90830,6,6,On-Time,5.0
+LOG-7706,J&T Express,Express,Bali,30281,1,4,Delayed,2.5
+LOG-7707,AnterAja,Regular,Bali,9656,4,4,On-Time,4.5
+LOG-7708,AnterAja,Regular,Jawa Tengah,17268,4,4,On-Time,4.8
+LOG-7709,SiCepat Ekspres,Regular,Jawa Timur,16373,4,4,On-Time,4.0
+LOG-7710,SiCepat Ekspres,Regular,Banten,9024,4,4,On-Time,4.8
+LOG-7711,JNE Express,Cargo,Jawa Barat,121753,6,9,Delayed,3.0
+LOG-7712,JNE Express,Regular,DKI Jakarta,18020,2,2,On-Time,4.8
+LOG-7713,JNE Express,Regular,Jawa Timur,11879,3,3,On-Time,4.8
+LOG-7714,JNE Express,Express,Sumatera Utara,26499,1,1,On-Time,4.0
+LOG-7715,JNE Express,Regular,Sumatera Utara,19953,3,3,On-Time,4.8
+LOG-7716,J&T Express,Regular,Jawa Barat,10870,4,4,On-Time,4.5
+LOG-7717,SiCepat Ekspres,Regular,Jawa Timur,18463,3,4,Delayed,3.5
+LOG-7718,SiCepat Ekspres,Regular,Bali,9060,4,4,On-Time,5.0
+LOG-7719,SiCepat Ekspres,Regular,Sumatera Utara,11673,2,2,On-Time,4.8
+LOG-7720,AnterAja,Regular,Sumatera Utara,15746,3,3,On-Time,5.0
+LOG-7721,AnterAja,Cargo,Banten,55318,5,5,On-Time,5.0
+LOG-7722,JNE Express,Express,Sumatera Utara,19163,1,1,On-Time,4.8
+LOG-7723,J&T Express,Express,DKI Jakarta,19060,1,1,On-Time,5.0
+LOG-7724,SiCepat Ekspres,Regular,Sumatera Utara,11097,4,4,On-Time,4.8
+LOG-7725,AnterAja,Regular,DKI Jakarta,19135,2,4,Delayed,2.5
+LOG-7726,J&T Express,Express,Banten,34971,1,1,On-Time,4.5
+LOG-7727,J&T Express,Cargo,Bali,66169,6,6,On-Time,4.8
+LOG-7728,AnterAja,Same-Day,Jawa Barat,53552,0,0,On-Time,5.0
+LOG-7729,SiCepat Ekspres,Regular,Jawa Tengah,14256,3,3,On-Time,4.0
+LOG-7730,SiCepat Ekspres,Regular,Jawa Timur,11856,3,3,On-Time,5.0
+LOG-7731,JNE Express,Cargo,Jawa Barat,81198,6,6,On-Time,5.0
+LOG-7732,AnterAja,Express,Jawa Timur,25986,1,1,On-Time,5.0
+LOG-7733,J&T Express,Express,Banten,21645,1,1,On-Time,4.5
+LOG-7734,J&T Express,Express,Jawa Tengah,22208,1,1,On-Time,4.5
+LOG-7735,JNE Express,Cargo,Bali,75886,7,7,On-Time,4.8
+LOG-7736,JNE Express,Regular,Jawa Barat,18052,3,3,On-Time,4.8
+LOG-7737,J&T Express,Cargo,Banten,126378,7,7,On-Time,5.0
+LOG-7738,SiCepat Ekspres,Same-Day,Bali,59679,0,0,On-Time,5.0
+LOG-7739,JNE Express,Regular,Jawa Barat,12377,2,2,On-Time,5.0
+LOG-7740,J&T Express,Same-Day,Banten,55585,0,0,On-Time,5.0
+LOG-7741,JNE Express,Regular,Bali,18130,2,2,On-Time,4.5
+LOG-7742,JNE Express,Regular,Sumatera Utara,12210,4,4,On-Time,4.8
+LOG-7743,J&T Express,Regular,Bali,14598,4,7,Delayed,3.0
+LOG-7744,SiCepat Ekspres,Regular,Sumatera Utara,10186,3,3,On-Time,4.8
+LOG-7745,GoSend,Express,Bali,23379,1,1,On-Time,4.0
+LOG-7746,JNE Express,Regular,Bali,14060,2,2,On-Time,5.0
+LOG-7747,JNE Express,Express,Jawa Timur,28940,1,1,On-Time,4.0
+LOG-7748,GoSend,Express,Banten,23584,1,1,On-Time,4.8
+LOG-7749,J&T Express,Regular,Bali,12368,2,2,On-Time,5.0
+LOG-7750,SiCepat Ekspres,Regular,DKI Jakarta,11847,4,4,On-Time,4.8
+LOG-7751,J&T Express,Express,Jawa Timur,28661,1,1,On-Time,4.8
+LOG-7752,SiCepat Ekspres,Regular,Jawa Tengah,18839,4,4,On-Time,4.8
+LOG-7753,AnterAja,Same-Day,Sumatera Utara,58460,0,0,On-Time,5.0
+LOG-7754,JNE Express,Regular,Jawa Tengah,18907,3,3,On-Time,4.8
+LOG-7755,J&T Express,Regular,Jawa Timur,19118,3,3,On-Time,4.8
+LOG-7756,AnterAja,Same-Day,Jawa Barat,36726,0,0,On-Time,4.8
+LOG-7757,JNE Express,Regular,Jawa Barat,18677,2,2,On-Time,4.5
+LOG-7758,SiCepat Ekspres,Express,Jawa Tengah,30201,1,1,On-Time,4.8
+LOG-7759,JNE Express,Regular,Banten,10261,2,2,On-Time,5.0
+LOG-7760,GrabExpress,Regular,Sumatera Utara,14277,3,3,On-Time,4.5
+LOG-7761,GrabExpress,Express,Jawa Timur,26382,1,1,On-Time,4.8
+LOG-7762,SiCepat Ekspres,Express,Banten,26772,1,2,Delayed,3.0
+LOG-7763,JNE Express,Express,Bali,25999,1,1,On-Time,4.8
+LOG-7764,AnterAja,Express,Jawa Timur,18419,1,4,Delayed,3.0
+LOG-7765,J&T Express,Same-Day,Banten,31342,0,0,On-Time,4.5
+LOG-7766,JNE Express,Same-Day,Jawa Tengah,50071,0,0,On-Time,4.5
+LOG-7767,J&T Express,Regular,DKI Jakarta,18137,2,2,On-Time,4.5
+LOG-7768,AnterAja,Cargo,Bali,102233,7,7,On-Time,4.5
+LOG-7769,GrabExpress,Express,Jawa Barat,23287,1,1,On-Time,5.0
+LOG-7770,GrabExpress,Regular,Jawa Barat,18964,3,3,On-Time,4.0
+LOG-7771,JNE Express,Regular,Jawa Tengah,15485,3,3,On-Time,4.8
+LOG-7772,SiCepat Ekspres,Regular,Sumatera Utara,10087,4,4,On-Time,4.8
+LOG-7773,JNE Express,Express,DKI Jakarta,24278,1,1,On-Time,5.0
+LOG-7774,JNE Express,Regular,Jawa Barat,16579,3,3,On-Time,5.0
+LOG-7775,J&T Express,Regular,Jawa Barat,11340,3,3,On-Time,5.0
+LOG-7776,AnterAja,Regular,Jawa Barat,16990,2,2,On-Time,5.0
+LOG-7777,JNE Express,Regular,DKI Jakarta,11816,3,3,On-Time,4.8
+LOG-7778,J&T Express,Same-Day,Banten,51273,0,0,On-Time,5.0
+LOG-7779,J&T Express,Regular,Bali,10929,3,3,On-Time,4.5
+LOG-7780,AnterAja,Express,Banten,21317,1,1,On-Time,5.0
+LOG-7781,JNE Express,Regular,Jawa Barat,19909,3,3,On-Time,4.8
+LOG-7782,GoSend,Express,Bali,32237,1,1,On-Time,5.0
+LOG-7783,SiCepat Ekspres,Cargo,Banten,88508,6,6,On-Time,4.5
+LOG-7784,JNE Express,Regular,Bali,12642,3,3,On-Time,4.8
+LOG-7785,SiCepat Ekspres,Same-Day,Banten,34715,0,0,On-Time,4.8
+LOG-7786,GrabExpress,Regular,Jawa Barat,10770,2,2,On-Time,4.0
+LOG-7787,JNE Express,Regular,Jawa Tengah,19532,3,3,On-Time,5.0
+LOG-7788,AnterAja,Regular,Bali,9083,4,4,On-Time,4.0
+LOG-7789,JNE Express,Regular,Jawa Timur,12423,3,3,On-Time,4.5
+LOG-7790,JNE Express,Regular,Sumatera Utara,18832,2,2,On-Time,5.0
+LOG-7791,JNE Express,Express,Jawa Tengah,30318,1,1,On-Time,4.8
+LOG-7792,JNE Express,Regular,Banten,16200,2,2,On-Time,5.0
+LOG-7793,J&T Express,Regular,Jawa Timur,13216,4,4,On-Time,4.8
+LOG-7794,AnterAja,Regular,Banten,9631,3,3,On-Time,5.0
+LOG-7795,GoSend,Express,Jawa Timur,22567,1,1,On-Time,4.0
+LOG-7796,J&T Express,Cargo,Bali,133472,6,6,On-Time,5.0
+LOG-7797,J&T Express,Regular,Jawa Timur,16386,2,2,On-Time,4.0
+LOG-7798,GrabExpress,Regular,Jawa Barat,15095,3,4,Delayed,4.0
+LOG-7799,GoSend,Regular,Jawa Timur,12148,3,3,On-Time,5.0
+LOG-7800,SiCepat Ekspres,Regular,Bali,18222,4,4,On-Time,4.5
+LOG-7801,AnterAja,Regular,Bali,16609,2,2,On-Time,4.8
+LOG-7802,GoSend,Regular,Jawa Timur,10309,2,2,On-Time,4.8
+LOG-7803,AnterAja,Express,Jawa Timur,18522,1,1,On-Time,4.8
+LOG-7804,GoSend,Regular,Banten,16640,4,5,Delayed,3.5
+LOG-7805,JNE Express,Express,Banten,33629,1,1,On-Time,4.8
+LOG-7806,JNE Express,Regular,Banten,13137,2,2,On-Time,4.5
+LOG-7807,AnterAja,Express,DKI Jakarta,28089,1,1,On-Time,4.5
+LOG-7808,SiCepat Ekspres,Regular,Jawa Timur,16087,3,3,On-Time,4.8
+LOG-7809,JNE Express,Regular,Sumatera Utara,10171,2,2,On-Time,4.8
+LOG-7810,JNE Express,Regular,Jawa Barat,15574,4,4,On-Time,4.8
+LOG-7811,JNE Express,Regular,Sumatera Utara,15787,3,4,Delayed,3.0
+LOG-7812,SiCepat Ekspres,Cargo,DKI Jakarta,88279,5,6,Delayed,3.0
+LOG-7813,J&T Express,Regular,Jawa Barat,11072,3,3,On-Time,4.8
+LOG-7814,JNE Express,Regular,Sumatera Utara,13130,2,2,On-Time,4.8
+LOG-7815,JNE Express,Regular,Banten,11389,4,4,On-Time,5.0
+LOG-7816,JNE Express,Regular,Sumatera Utara,15526,4,4,On-Time,4.5
+LOG-7817,J&T Express,Regular,Jawa Timur,11627,4,4,On-Time,4.5
+LOG-7818,SiCepat Ekspres,Regular,DKI Jakarta,15719,3,3,On-Time,4.8
+LOG-7819,J&T Express,Regular,Sumatera Utara,12418,2,2,On-Time,5.0
+LOG-7820,J&T Express,Regular,Banten,9142,4,4,On-Time,4.8
+LOG-7821,AnterAja,Regular,DKI Jakarta,18785,4,4,On-Time,5.0
+LOG-7822,J&T Express,Cargo,Jawa Barat,117846,6,6,On-Time,4.8
+LOG-7823,AnterAja,Regular,Banten,18813,3,3,On-Time,4.0
+LOG-7824,J&T Express,Regular,Bali,14138,2,2,On-Time,5.0
+LOG-7825,JNE Express,Regular,Bali,9989,4,4,On-Time,4.0
+LOG-7826,JNE Express,Regular,Bali,18461,3,3,On-Time,5.0
+LOG-7827,JNE Express,Express,Jawa Barat,20812,1,4,Delayed,2.5
+LOG-7828,J&T Express,Cargo,Jawa Timur,90450,6,6,On-Time,4.8
+LOG-7829,AnterAja,Same-Day,Jawa Tengah,52616,0,0,On-Time,4.5
+LOG-7830,J&T Express,Regular,Jawa Tengah,14656,2,2,On-Time,4.8
+LOG-7831,JNE Express,Cargo,DKI Jakarta,117634,5,8,Delayed,2.5
+LOG-7832,GoSend,Cargo,Jawa Barat,131266,6,8,Delayed,4.0
+LOG-7833,GoSend,Regular,Jawa Barat,16171,4,4,On-Time,5.0
+LOG-7834,JNE Express,Same-Day,Jawa Barat,27254,0,0,On-Time,4.8
+LOG-7835,SiCepat Ekspres,Express,Sumatera Utara,24806,1,1,On-Time,5.0
+LOG-7836,SiCepat Ekspres,Express,Bali,33318,1,1,On-Time,5.0
+LOG-7837,AnterAja,Regular,Jawa Barat,18027,3,3,On-Time,4.8
+LOG-7838,JNE Express,Same-Day,Sumatera Utara,52981,0,0,On-Time,4.8
+LOG-7839,GrabExpress,Express,Bali,29443,1,4,Delayed,4.0
+LOG-7840,J&T Express,Same-Day,Banten,43707,0,0,On-Time,5.0
+LOG-7841,SiCepat Ekspres,Same-Day,Sumatera Utara,52772,0,0,On-Time,5.0
+LOG-7842,AnterAja,Same-Day,Sumatera Utara,36068,0,0,On-Time,4.8
+LOG-7843,AnterAja,Regular,Banten,18682,2,2,On-Time,5.0
+LOG-7844,AnterAja,Same-Day,Banten,48346,0,0,On-Time,4.5
+LOG-7845,JNE Express,Express,Jawa Timur,33620,1,1,On-Time,4.0
+LOG-7846,JNE Express,Regular,Sumatera Utara,14191,4,4,On-Time,4.8
+LOG-7847,AnterAja,Regular,Sumatera Utara,18281,3,3,On-Time,5.0
+LOG-7848,AnterAja,Same-Day,Jawa Timur,56888,0,0,On-Time,4.8
+LOG-7849,JNE Express,Express,Bali,27634,1,1,On-Time,5.0
+LOG-7850,SiCepat Ekspres,Express,Bali,18325,1,4,Delayed,3.0
+LOG-7851,JNE Express,Same-Day,DKI Jakarta,31177,0,0,On-Time,4.0
+LOG-7852,J&T Express,Express,Bali,29972,1,4,Delayed,3.5
+LOG-7853,SiCepat Ekspres,Regular,Banten,12142,4,4,On-Time,5.0
+LOG-7854,J&T Express,Same-Day,Jawa Tengah,27898,0,0,On-Time,4.8
+LOG-7855,AnterAja,Express,Jawa Barat,23545,1,1,On-Time,4.8
+LOG-7856,SiCepat Ekspres,Regular,DKI Jakarta,14028,2,2,On-Time,4.0
+LOG-7857,JNE Express,Express,Sumatera Utara,31480,1,1,On-Time,4.8
+LOG-7858,JNE Express,Regular,Jawa Barat,11092,3,3,On-Time,4.8
+LOG-7859,AnterAja,Regular,Jawa Timur,18973,2,2,On-Time,4.5
+LOG-7860,SiCepat Ekspres,Same-Day,Jawa Barat,57557,0,0,On-Time,4.8
+LOG-7861,JNE Express,Regular,Banten,9196,3,3,On-Time,5.0
+LOG-7862,J&T Express,Express,Jawa Barat,23541,1,2,Delayed,3.0
+LOG-7863,JNE Express,Express,Jawa Tengah,32927,1,1,On-Time,5.0
+LOG-7864,JNE Express,Express,DKI Jakarta,27564,1,1,On-Time,4.5
+LOG-7865,J&T Express,Regular,Jawa Tengah,9718,3,3,On-Time,4.8
+LOG-7866,J&T Express,Express,Jawa Barat,26520,1,1,On-Time,5.0
+LOG-7867,SiCepat Ekspres,Express,DKI Jakarta,20375,1,1,On-Time,4.8
+LOG-7868,GrabExpress,Express,DKI Jakarta,34405,1,1,On-Time,5.0
+LOG-7869,J&T Express,Regular,DKI Jakarta,15480,4,6,Delayed,3.0
+LOG-7870,AnterAja,Express,Bali,21262,1,4,Delayed,3.0
+LOG-7871,AnterAja,Regular,Jawa Timur,17605,2,2,On-Time,5.0
+LOG-7872,GrabExpress,Same-Day,Jawa Tengah,26542,0,0,On-Time,4.8
+LOG-7873,JNE Express,Regular,Jawa Tengah,12243,4,4,On-Time,4.8
+LOG-7874,JNE Express,Express,Banten,33288,1,1,On-Time,4.5
+LOG-7875,J&T Express,Express,Jawa Tengah,23274,1,4,Delayed,4.0
+LOG-7876,JNE Express,Express,Banten,32957,1,1,On-Time,4.5
+LOG-7877,J&T Express,Cargo,Jawa Tengah,61148,5,5,On-Time,5.0
+LOG-7878,J&T Express,Same-Day,Banten,36467,0,0,On-Time,5.0
+LOG-7879,GrabExpress,Regular,Jawa Timur,19307,3,3,On-Time,5.0
+LOG-7880,GrabExpress,Express,Sumatera Utara,32831,1,1,On-Time,4.8
+LOG-7881,SiCepat Ekspres,Regular,Jawa Tengah,14349,3,3,On-Time,5.0
+LOG-7882,JNE Express,Regular,Banten,12547,4,4,On-Time,5.0
+LOG-7883,JNE Express,Express,Sumatera Utara,22449,1,1,On-Time,5.0
+LOG-7884,JNE Express,Cargo,Jawa Timur,137631,5,5,On-Time,4.5
+LOG-7885,GoSend,Regular,Sumatera Utara,17089,4,4,On-Time,4.5
+LOG-7886,AnterAja,Regular,DKI Jakarta,12031,4,4,On-Time,4.8
+LOG-7887,J&T Express,Same-Day,Jawa Barat,49429,0,0,On-Time,4.8
+LOG-7888,SiCepat Ekspres,Regular,Jawa Timur,18718,2,2,On-Time,4.8
+LOG-7889,J&T Express,Same-Day,Jawa Barat,54385,0,0,On-Time,5.0
+LOG-7890,GrabExpress,Regular,Banten,9584,4,7,Delayed,2.5
+LOG-7891,J&T Express,Regular,DKI Jakarta,16944,3,6,Delayed,3.0
+LOG-7892,J&T Express,Regular,Banten,17357,2,2,On-Time,5.0
+LOG-7893,JNE Express,Cargo,Jawa Barat,84738,6,6,On-Time,4.5
+LOG-7894,GoSend,Same-Day,DKI Jakarta,42709,0,0,On-Time,4.5
+LOG-7895,GrabExpress,Regular,Jawa Tengah,17899,4,4,On-Time,4.8
+LOG-7896,GoSend,Same-Day,Jawa Barat,30370,0,0,On-Time,5.0
+LOG-7897,J&T Express,Regular,Jawa Barat,10980,2,5,Delayed,3.0
+LOG-7898,JNE Express,Regular,DKI Jakarta,19206,4,4,On-Time,4.8
+LOG-7899,JNE Express,Express,Jawa Tengah,23687,1,1,On-Time,4.8
+LOG-7900,GrabExpress,Express,DKI Jakarta,32920,1,1,On-Time,4.8
+LOG-7901,J&T Express,Same-Day,Jawa Tengah,26217,0,0,On-Time,4.5
+LOG-7902,SiCepat Ekspres,Express,Sumatera Utara,32095,1,1,On-Time,5.0
+LOG-7903,AnterAja,Regular,Banten,18343,2,5,Delayed,4.0
+LOG-7904,GoSend,Regular,Jawa Tengah,10901,3,3,On-Time,5.0
+LOG-7905,AnterAja,Cargo,Banten,149429,5,5,On-Time,4.8
+LOG-7906,J&T Express,Regular,Jawa Barat,14495,4,4,On-Time,5.0
+LOG-7907,GoSend,Same-Day,DKI Jakarta,32630,0,0,On-Time,4.8
+LOG-7908,JNE Express,Regular,Banten,19863,2,2,On-Time,4.8
+LOG-7909,AnterAja,Regular,Jawa Timur,12226,2,2,On-Time,5.0
+LOG-7910,AnterAja,Express,Bali,27227,1,1,On-Time,4.8
+LOG-7911,JNE Express,Same-Day,Banten,42845,0,0,On-Time,4.5
+LOG-7912,GrabExpress,Regular,Sumatera Utara,19032,3,3,On-Time,5.0
+LOG-7913,JNE Express,Express,Bali,24015,1,1,On-Time,5.0
+LOG-7914,AnterAja,Regular,Bali,9633,3,3,On-Time,5.0
+LOG-7915,SiCepat Ekspres,Express,Sumatera Utara,25012,1,2,Delayed,3.5
+LOG-7916,AnterAja,Express,Jawa Barat,33617,1,3,Delayed,3.5
+LOG-7917,AnterAja,Regular,Jawa Tengah,15257,3,6,Delayed,3.0
+LOG-7918,SiCepat Ekspres,Regular,Banten,18668,2,2,On-Time,4.8
+LOG-7919,SiCepat Ekspres,Express,DKI Jakarta,25011,1,1,On-Time,4.8
+LOG-7920,SiCepat Ekspres,Regular,Jawa Barat,19100,2,2,On-Time,4.8
+LOG-7921,JNE Express,Express,Jawa Timur,20465,1,2,Delayed,2.5
+LOG-7922,J&T Express,Express,Jawa Timur,24879,1,1,On-Time,4.8
+LOG-7923,J&T Express,Cargo,Jawa Tengah,104821,5,5,On-Time,5.0
+LOG-7924,AnterAja,Regular,DKI Jakarta,13110,2,5,Delayed,3.5
+LOG-7925,J&T Express,Express,Jawa Timur,23589,1,1,On-Time,4.0
+LOG-7926,GoSend,Cargo,Jawa Tengah,65793,7,7,On-Time,5.0
+LOG-7927,J&T Express,Regular,Bali,10308,2,2,On-Time,4.8
+LOG-7928,JNE Express,Regular,Jawa Timur,16920,3,3,On-Time,5.0
+LOG-7929,SiCepat Ekspres,Cargo,Jawa Timur,122751,6,6,On-Time,4.5
+LOG-7930,GrabExpress,Regular,Bali,9379,2,2,On-Time,4.5
+LOG-7931,J&T Express,Regular,Sumatera Utara,17305,2,2,On-Time,5.0
+LOG-7932,SiCepat Ekspres,Express,Jawa Tengah,30691,1,1,On-Time,5.0
+LOG-7933,SiCepat Ekspres,Express,Banten,25888,1,1,On-Time,4.5
+LOG-7934,JNE Express,Regular,DKI Jakarta,11788,4,4,On-Time,4.5
+LOG-7935,GoSend,Regular,Banten,14864,4,4,On-Time,5.0
+LOG-7936,J&T Express,Regular,Banten,16355,3,3,On-Time,5.0
+LOG-7937,GoSend,Express,DKI Jakarta,24249,1,1,On-Time,4.8
+LOG-7938,J&T Express,Regular,Bali,13827,4,4,On-Time,4.5
+LOG-7939,JNE Express,Regular,Bali,15561,2,2,On-Time,5.0
+LOG-7940,J&T Express,Express,Jawa Barat,20297,1,1,On-Time,4.8
+LOG-7941,AnterAja,Express,Jawa Tengah,18940,1,1,On-Time,5.0
+LOG-7942,JNE Express,Same-Day,Bali,59613,0,0,On-Time,4.0
+LOG-7943,AnterAja,Cargo,DKI Jakarta,82229,5,5,On-Time,5.0
+LOG-7944,JNE Express,Express,DKI Jakarta,21489,1,1,On-Time,4.0
+LOG-7945,SiCepat Ekspres,Express,Jawa Timur,24762,1,2,Delayed,3.5
+LOG-7946,J&T Express,Regular,DKI Jakarta,9989,2,2,On-Time,5.0
+LOG-7947,J&T Express,Express,Sumatera Utara,26370,1,1,On-Time,5.0
+LOG-7948,J&T Express,Regular,Jawa Barat,9324,4,4,On-Time,4.8
+LOG-7949,SiCepat Ekspres,Same-Day,DKI Jakarta,44363,0,0,On-Time,4.5
+LOG-7950,JNE Express,Same-Day,Bali,37488,0,0,On-Time,4.5
+LOG-7951,GoSend,Regular,Sumatera Utara,10355,3,3,On-Time,4.8
+LOG-7952,SiCepat Ekspres,Regular,Jawa Barat,10148,2,2,On-Time,4.8
+LOG-7953,JNE Express,Regular,Bali,19180,4,4,On-Time,4.0
+LOG-7954,GrabExpress,Regular,Bali,17886,4,4,On-Time,4.8
+LOG-7955,J&T Express,Express,Jawa Tengah,20769,1,1,On-Time,4.5
+LOG-7956,J&T Express,Regular,DKI Jakarta,14915,2,2,On-Time,4.5
+LOG-7957,J&T Express,Regular,Banten,9858,2,2,On-Time,5.0
+LOG-7958,JNE Express,Express,Jawa Barat,28602,1,1,On-Time,4.0
+LOG-7959,SiCepat Ekspres,Regular,Jawa Barat,14401,3,3,On-Time,5.0
+LOG-7960,SiCepat Ekspres,Same-Day,Bali,28771,0,0,On-Time,5.0
+LOG-7961,AnterAja,Same-Day,Sumatera Utara,34650,0,0,On-Time,4.0
+LOG-7962,AnterAja,Cargo,Jawa Tengah,60995,5,5,On-Time,4.5
+LOG-7963,J&T Express,Cargo,Bali,78148,5,5,On-Time,4.0
+LOG-7964,J&T Express,Regular,Bali,17924,3,3,On-Time,4.0
+LOG-7965,SiCepat Ekspres,Express,DKI Jakarta,22639,1,1,On-Time,4.8
+LOG-7966,J&T Express,Regular,Banten,15004,2,2,On-Time,4.5
+LOG-7967,JNE Express,Same-Day,Jawa Timur,45182,0,0,On-Time,4.0
+LOG-7968,AnterAja,Regular,Jawa Timur,10465,2,2,On-Time,5.0
+LOG-7969,JNE Express,Regular,Jawa Timur,12469,4,4,On-Time,4.8
+LOG-7970,SiCepat Ekspres,Regular,Sumatera Utara,18178,4,4,On-Time,4.8
+LOG-7971,JNE Express,Cargo,Jawa Tengah,72556,5,5,On-Time,4.5
+LOG-7972,AnterAja,Express,DKI Jakarta,27898,1,1,On-Time,4.8
+LOG-7973,JNE Express,Regular,Jawa Tengah,9099,2,2,On-Time,4.8
+LOG-7974,GrabExpress,Regular,Jawa Barat,12219,4,4,On-Time,5.0
+LOG-7975,GoSend,Regular,Banten,15335,3,3,On-Time,4.5
+LOG-7976,SiCepat Ekspres,Express,Jawa Barat,34741,1,1,On-Time,4.8
+LOG-7977,GrabExpress,Express,Jawa Tengah,29144,1,1,On-Time,4.5
+LOG-7978,JNE Express,Same-Day,Bali,50451,0,0,On-Time,4.5
+LOG-7979,GrabExpress,Cargo,Jawa Barat,62490,5,5,On-Time,5.0
+LOG-7980,AnterAja,Express,Jawa Barat,33909,1,1,On-Time,5.0
+LOG-7981,AnterAja,Express,Sumatera Utara,33379,1,1,On-Time,5.0
+LOG-7982,AnterAja,Same-Day,DKI Jakarta,27281,0,0,On-Time,4.5
+LOG-7983,SiCepat Ekspres,Regular,Jawa Tengah,10992,4,4,On-Time,5.0
+LOG-7984,GrabExpress,Express,DKI Jakarta,18594,1,3,Delayed,3.0
+LOG-7985,AnterAja,Same-Day,Bali,44629,0,1,Delayed,3.0
+LOG-7986,AnterAja,Regular,DKI Jakarta,11321,2,4,Delayed,3.5
+LOG-7987,J&T Express,Express,Jawa Timur,20785,1,3,Delayed,3.0
+LOG-7988,GoSend,Express,Jawa Barat,19793,1,1,On-Time,4.5
+LOG-7989,GoSend,Express,Sumatera Utara,21676,1,1,On-Time,4.8
+LOG-7990,GrabExpress,Regular,Jawa Barat,15988,4,7,Delayed,3.5
+LOG-7991,SiCepat Ekspres,Regular,DKI Jakarta,11630,2,2,On-Time,5.0
+LOG-7992,GoSend,Cargo,Jawa Barat,124800,5,5,On-Time,5.0
+LOG-7993,J&T Express,Regular,Jawa Tengah,12584,4,4,On-Time,4.8
+LOG-7994,GrabExpress,Express,DKI Jakarta,34365,1,1,On-Time,4.8
+LOG-7995,SiCepat Ekspres,Same-Day,Sumatera Utara,44546,0,0,On-Time,5.0
+LOG-7996,SiCepat Ekspres,Regular,Jawa Barat,12530,3,3,On-Time,5.0
+LOG-7997,AnterAja,Regular,Banten,13685,3,3,On-Time,4.5
+LOG-7998,GoSend,Cargo,DKI Jakarta,125984,6,9,Delayed,3.5
+LOG-7999,J&T Express,Regular,Jawa Tengah,19500,2,2,On-Time,4.5
+LOG-8000,JNE Express,Regular,Bali,17485,3,3,On-Time,4.5
+LOG-8001,GrabExpress,Regular,Jawa Barat,12139,3,3,On-Time,4.8
+LOG-8002,AnterAja,Regular,Jawa Barat,16710,2,2,On-Time,5.0
+LOG-8003,GrabExpress,Regular,Jawa Tengah,18825,2,2,On-Time,5.0
+LOG-8004,SiCepat Ekspres,Regular,Sumatera Utara,15192,4,4,On-Time,4.8
+LOG-8005,GrabExpress,Regular,Jawa Timur,13979,4,4,On-Time,4.8
+LOG-8006,J&T Express,Express,Bali,23627,1,1,On-Time,4.8
+LOG-8007,GoSend,Regular,DKI Jakarta,18727,4,6,Delayed,2.5
+LOG-8008,JNE Express,Express,Banten,29042,1,1,On-Time,4.8
+LOG-8009,JNE Express,Cargo,Jawa Barat,143660,7,7,On-Time,4.5
+LOG-8010,J&T Express,Regular,Banten,16808,2,2,On-Time,4.8
+LOG-8011,JNE Express,Express,Sumatera Utara,27121,1,1,On-Time,4.0
+LOG-8012,SiCepat Ekspres,Regular,Jawa Tengah,16523,2,2,On-Time,5.0
+LOG-8013,SiCepat Ekspres,Regular,Jawa Barat,18125,3,3,On-Time,4.5
+LOG-8014,SiCepat Ekspres,Regular,Jawa Timur,13863,4,6,Delayed,3.0
+LOG-8015,GoSend,Regular,Jawa Tengah,10520,2,3,Delayed,3.0
+LOG-8016,SiCepat Ekspres,Express,Bali,24493,1,4,Delayed,3.0
+LOG-8017,SiCepat Ekspres,Cargo,Bali,116319,6,9,Delayed,3.0
+LOG-8018,J&T Express,Regular,Sumatera Utara,11910,2,3,Delayed,3.0
+LOG-8019,SiCepat Ekspres,Express,Banten,23488,1,4,Delayed,2.5
+LOG-8020,SiCepat Ekspres,Cargo,Jawa Timur,120538,7,7,On-Time,5.0
+LOG-8021,SiCepat Ekspres,Regular,Jawa Timur,12543,3,3,On-Time,5.0
+LOG-8022,JNE Express,Regular,DKI Jakarta,17998,3,3,On-Time,5.0
+LOG-8023,SiCepat Ekspres,Regular,Jawa Barat,13411,3,3,On-Time,4.8
+LOG-8024,SiCepat Ekspres,Regular,Jawa Tengah,10685,2,2,On-Time,4.0
+LOG-8025,SiCepat Ekspres,Cargo,DKI Jakarta,69789,6,6,On-Time,5.0
+LOG-8026,J&T Express,Regular,Bali,14936,2,2,On-Time,5.0
+LOG-8027,GoSend,Regular,Sumatera Utara,9248,4,4,On-Time,4.8
+LOG-8028,GoSend,Express,Bali,34574,1,4,Delayed,2.5
+LOG-8029,GoSend,Same-Day,Bali,59822,0,0,On-Time,4.5
+LOG-8030,J&T Express,Express,Jawa Barat,28171,1,4,Delayed,3.0
+LOG-8031,SiCepat Ekspres,Cargo,Bali,123212,5,5,On-Time,5.0
+LOG-8032,SiCepat Ekspres,Regular,Bali,15437,3,3,On-Time,4.8
+LOG-8033,J&T Express,Regular,Jawa Timur,16657,3,3,On-Time,4.5
+LOG-8034,J&T Express,Express,Sumatera Utara,32848,1,1,On-Time,4.5
+LOG-8035,JNE Express,Express,DKI Jakarta,23834,1,1,On-Time,4.0
+LOG-8036,SiCepat Ekspres,Cargo,Jawa Timur,85026,5,5,On-Time,4.8
+LOG-8037,SiCepat Ekspres,Express,Jawa Barat,31253,1,1,On-Time,5.0
+LOG-8038,JNE Express,Same-Day,DKI Jakarta,58826,0,0,On-Time,4.0
+LOG-8039,JNE Express,Express,Jawa Timur,20857,1,1,On-Time,5.0
+LOG-8040,SiCepat Ekspres,Regular,Jawa Timur,9655,4,4,On-Time,5.0
+LOG-8041,AnterAja,Regular,Banten,14181,2,4,Delayed,2.5
+LOG-8042,GrabExpress,Express,Jawa Tengah,19513,1,1,On-Time,5.0
+LOG-8043,J&T Express,Express,Sumatera Utara,20297,1,1,On-Time,5.0
+LOG-8044,GrabExpress,Regular,Jawa Barat,9167,4,4,On-Time,5.0
+LOG-8045,GoSend,Cargo,Jawa Tengah,60477,6,6,On-Time,5.0
+LOG-8046,AnterAja,Same-Day,Sumatera Utara,53608,0,0,On-Time,5.0
+LOG-8047,JNE Express,Regular,DKI Jakarta,12007,3,3,On-Time,4.8
+LOG-8048,AnterAja,Regular,Jawa Barat,13390,2,3,Delayed,2.5
+LOG-8049,JNE Express,Express,Bali,29310,1,1,On-Time,4.8
+LOG-8050,J&T Express,Same-Day,Sumatera Utara,34358,0,0,On-Time,4.8
+LOG-8051,JNE Express,Regular,DKI Jakarta,14323,2,2,On-Time,5.0
+LOG-8052,SiCepat Ekspres,Regular,Jawa Tengah,12668,4,4,On-Time,5.0
+LOG-8053,J&T Express,Regular,Jawa Barat,11082,2,2,On-Time,4.8
+LOG-8054,J&T Express,Regular,Jawa Tengah,14357,4,4,On-Time,5.0
+LOG-8055,JNE Express,Regular,Banten,16654,2,3,Delayed,3.5
+LOG-8056,GoSend,Regular,Jawa Timur,9560,3,3,On-Time,5.0
+LOG-8057,SiCepat Ekspres,Regular,Jawa Barat,13927,2,2,On-Time,5.0
+LOG-8058,J&T Express,Regular,DKI Jakarta,16479,4,4,On-Time,5.0
+LOG-8059,GrabExpress,Same-Day,Jawa Timur,47268,0,0,On-Time,4.8
+LOG-8060,J&T Express,Same-Day,Banten,54647,0,0,On-Time,4.0
+LOG-8061,JNE Express,Regular,DKI Jakarta,12482,3,3,On-Time,4.8
+LOG-8062,GoSend,Regular,Bali,11892,2,5,Delayed,2.5
+LOG-8063,JNE Express,Same-Day,Jawa Tengah,44855,0,0,On-Time,5.0
+LOG-8064,J&T Express,Express,DKI Jakarta,31293,1,1,On-Time,4.8
+LOG-8065,J&T Express,Regular,DKI Jakarta,17440,3,3,On-Time,4.8
+LOG-8066,JNE Express,Express,Banten,18592,1,1,On-Time,5.0
+LOG-8067,GrabExpress,Regular,Sumatera Utara,17191,2,2,On-Time,4.8
+LOG-8068,AnterAja,Regular,Jawa Timur,16113,4,4,On-Time,4.8
+LOG-8069,SiCepat Ekspres,Same-Day,Jawa Tengah,45415,0,0,On-Time,4.0
+LOG-8070,J&T Express,Regular,Jawa Timur,10274,3,3,On-Time,4.8
+LOG-8071,AnterAja,Express,Jawa Timur,27094,1,4,Delayed,4.0
+LOG-8072,SiCepat Ekspres,Same-Day,Jawa Barat,57748,0,0,On-Time,5.0
+LOG-8073,SiCepat Ekspres,Regular,Sumatera Utara,18954,2,2,On-Time,4.8
+LOG-8074,GrabExpress,Express,DKI Jakarta,20916,1,1,On-Time,4.0
+LOG-8075,J&T Express,Express,Banten,26303,1,1,On-Time,5.0
+LOG-8076,J&T Express,Regular,Jawa Barat,15067,3,3,On-Time,5.0
+LOG-8077,GrabExpress,Same-Day,DKI Jakarta,39501,0,0,On-Time,4.5
+LOG-8078,J&T Express,Regular,Banten,9373,4,4,On-Time,4.5
+LOG-8079,JNE Express,Regular,Bali,17529,2,3,Delayed,2.5
+LOG-8080,J&T Express,Regular,Jawa Tengah,11409,3,3,On-Time,5.0
+LOG-8081,SiCepat Ekspres,Cargo,Banten,139029,5,5,On-Time,5.0
+LOG-8082,AnterAja,Regular,Sumatera Utara,16952,2,2,On-Time,4.8
+LOG-8083,JNE Express,Regular,DKI Jakarta,12449,4,4,On-Time,5.0
+LOG-8084,SiCepat Ekspres,Cargo,Jawa Timur,92603,6,6,On-Time,4.8
+LOG-8085,JNE Express,Same-Day,Banten,34342,0,0,On-Time,4.8
+LOG-8086,SiCepat Ekspres,Express,Jawa Tengah,22461,1,1,On-Time,5.0
+LOG-8087,GrabExpress,Regular,Jawa Tengah,16426,3,3,On-Time,4.8
+LOG-8088,J&T Express,Express,Jawa Timur,18066,1,2,Delayed,3.5
+LOG-8089,JNE Express,Express,Sumatera Utara,20009,1,1,On-Time,5.0
+LOG-8090,AnterAja,Express,Jawa Timur,22667,1,1,On-Time,5.0
+LOG-8091,SiCepat Ekspres,Regular,Bali,11042,2,2,On-Time,5.0
+LOG-8092,JNE Express,Regular,Jawa Timur,12233,2,2,On-Time,4.8
+LOG-8093,J&T Express,Express,Sumatera Utara,30582,1,1,On-Time,5.0
+LOG-8094,SiCepat Ekspres,Regular,DKI Jakarta,18497,3,3,On-Time,4.5
+LOG-8095,J&T Express,Regular,Jawa Timur,14166,2,2,On-Time,4.8
+LOG-8096,JNE Express,Express,Bali,33264,1,1,On-Time,4.8
+LOG-8097,J&T Express,Regular,Jawa Timur,9710,4,4,On-Time,5.0
+LOG-8098,SiCepat Ekspres,Same-Day,Banten,53297,0,0,On-Time,4.8
+LOG-8099,SiCepat Ekspres,Regular,Jawa Barat,16535,2,2,On-Time,4.8
+LOG-8100,SiCepat Ekspres,Regular,Sumatera Utara,9757,3,3,On-Time,4.5
+LOG-8101,GrabExpress,Regular,Sumatera Utara,16896,4,4,On-Time,5.0
+LOG-8102,SiCepat Ekspres,Regular,Jawa Timur,10331,2,2,On-Time,4.0
+LOG-8103,J&T Express,Same-Day,Banten,44881,0,0,On-Time,5.0
+LOG-8104,SiCepat Ekspres,Regular,Banten,12896,2,2,On-Time,4.8
+LOG-8105,AnterAja,Express,Jawa Timur,18350,1,1,On-Time,5.0
+LOG-8106,SiCepat Ekspres,Regular,Bali,12903,3,3,On-Time,4.0
+LOG-8107,AnterAja,Express,Banten,34442,1,1,On-Time,4.5
+LOG-8108,JNE Express,Regular,Jawa Timur,15121,4,4,On-Time,4.5
+LOG-8109,J&T Express,Regular,Sumatera Utara,17678,3,3,On-Time,4.8
+LOG-8110,AnterAja,Express,Bali,18692,1,1,On-Time,4.0
+LOG-8111,J&T Express,Regular,Jawa Tengah,9058,3,4,Delayed,2.5
+LOG-8112,J&T Express,Regular,Banten,18381,3,3,On-Time,4.0
+LOG-8113,J&T Express,Regular,Jawa Barat,14623,2,2,On-Time,5.0
+LOG-8114,JNE Express,Express,Jawa Barat,33569,1,1,On-Time,5.0
+LOG-8115,SiCepat Ekspres,Express,Jawa Barat,28532,1,1,On-Time,5.0
+LOG-8116,JNE Express,Same-Day,Bali,56685,0,0,On-Time,4.0
+LOG-8117,GrabExpress,Regular,Jawa Timur,11884,2,2,On-Time,5.0
+LOG-8118,J&T Express,Regular,Jawa Timur,10803,2,2,On-Time,4.8
+LOG-8119,JNE Express,Express,Banten,31731,1,1,On-Time,4.8
+LOG-8120,JNE Express,Express,Jawa Timur,22244,1,3,Delayed,2.5
+LOG-8121,SiCepat Ekspres,Regular,Sumatera Utara,13071,3,3,On-Time,4.5
+LOG-8122,JNE Express,Regular,Banten,15428,3,3,On-Time,4.8
+LOG-8123,JNE Express,Regular,Bali,14585,3,3,On-Time,5.0
+LOG-8124,SiCepat Ekspres,Express,Jawa Timur,22608,1,3,Delayed,3.0
+LOG-8125,SiCepat Ekspres,Regular,DKI Jakarta,16937,3,3,On-Time,4.5
+LOG-8126,JNE Express,Regular,Bali,10727,2,4,Delayed,2.5
+LOG-8127,J&T Express,Regular,Jawa Tengah,17765,3,3,On-Time,4.5
+LOG-8128,AnterAja,Regular,Jawa Tengah,19156,3,3,On-Time,4.8
+LOG-8129,JNE Express,Cargo,DKI Jakarta,66830,5,5,On-Time,4.5
+LOG-8130,GoSend,Regular,Jawa Barat,12675,3,3,On-Time,5.0
+LOG-8131,J&T Express,Regular,Bali,11771,4,4,On-Time,4.0
+LOG-8132,AnterAja,Express,Jawa Timur,26110,1,1,On-Time,4.8
+LOG-8133,J&T Express,Regular,DKI Jakarta,12741,3,6,Delayed,3.0
+LOG-8134,J&T Express,Express,Jawa Barat,26213,1,1,On-Time,5.0
+LOG-8135,AnterAja,Regular,Bali,14897,2,3,Delayed,2.5
+LOG-8136,GoSend,Express,Jawa Timur,22950,1,1,On-Time,4.8
+LOG-8137,GrabExpress,Regular,Bali,16891,4,4,On-Time,5.0
+LOG-8138,JNE Express,Regular,Banten,12854,3,3,On-Time,4.0
+LOG-8139,J&T Express,Express,Sumatera Utara,33970,1,1,On-Time,5.0
+LOG-8140,SiCepat Ekspres,Regular,Bali,18872,3,6,Delayed,2.5
+LOG-8141,GoSend,Express,Bali,34992,1,1,On-Time,4.0
+LOG-8142,SiCepat Ekspres,Same-Day,Banten,27789,0,0,On-Time,4.8
+LOG-8143,J&T Express,Regular,Sumatera Utara,13816,4,4,On-Time,4.5
+LOG-8144,AnterAja,Express,Jawa Barat,34915,1,1,On-Time,4.8
+LOG-8145,J&T Express,Regular,Bali,18186,3,3,On-Time,5.0
+LOG-8146,AnterAja,Regular,Bali,19174,2,2,On-Time,4.0
+LOG-8147,JNE Express,Same-Day,Jawa Barat,28404,0,0,On-Time,5.0
+LOG-8148,SiCepat Ekspres,Same-Day,Jawa Timur,43190,0,0,On-Time,4.8
+LOG-8149,JNE Express,Cargo,Banten,145736,6,6,On-Time,4.8
+LOG-8150,JNE Express,Cargo,Jawa Timur,93475,5,5,On-Time,4.8
+LOG-8151,AnterAja,Regular,Jawa Tengah,10240,4,4,On-Time,5.0
+LOG-8152,J&T Express,Same-Day,Banten,58653,0,1,Delayed,2.5
+LOG-8153,AnterAja,Same-Day,Jawa Timur,26055,0,0,On-Time,4.5
+LOG-8154,J&T Express,Regular,Sumatera Utara,11633,2,2,On-Time,4.5
+LOG-8155,JNE Express,Same-Day,Banten,26449,0,0,On-Time,5.0
+LOG-8156,JNE Express,Same-Day,Bali,51424,0,0,On-Time,5.0
+LOG-8157,SiCepat Ekspres,Regular,Bali,15882,2,2,On-Time,5.0
+LOG-8158,GoSend,Regular,Jawa Barat,12173,2,2,On-Time,4.0
+LOG-8159,AnterAja,Regular,Sumatera Utara,19917,3,3,On-Time,4.5
+LOG-8160,AnterAja,Cargo,DKI Jakarta,66808,5,5,On-Time,4.5
+LOG-8161,AnterAja,Regular,Sumatera Utara,10211,4,4,On-Time,5.0
+LOG-8162,J&T Express,Regular,Sumatera Utara,11073,3,3,On-Time,5.0
+LOG-8163,J&T Express,Express,Banten,25785,1,1,On-Time,5.0
+LOG-8164,J&T Express,Express,DKI Jakarta,26023,1,1,On-Time,4.8
+LOG-8165,SiCepat Ekspres,Express,Banten,32895,1,3,Delayed,3.5
+LOG-8166,JNE Express,Regular,Bali,10589,4,4,On-Time,4.8
+LOG-8167,GoSend,Regular,Banten,18597,3,3,On-Time,5.0
+LOG-8168,AnterAja,Express,Jawa Barat,18372,1,4,Delayed,2.5
+LOG-8169,J&T Express,Cargo,Jawa Timur,106457,5,5,On-Time,4.5
+LOG-8170,GoSend,Same-Day,Sumatera Utara,33136,0,0,On-Time,4.8
+LOG-8171,J&T Express,Cargo,Jawa Tengah,85286,7,7,On-Time,5.0
+LOG-8172,JNE Express,Regular,Jawa Barat,11208,4,4,On-Time,4.5
+LOG-8173,GoSend,Regular,Bali,9915,4,4,On-Time,5.0
+LOG-8174,AnterAja,Regular,Jawa Tengah,14488,3,3,On-Time,5.0
+LOG-8175,GrabExpress,Same-Day,Banten,38022,0,0,On-Time,4.8
+LOG-8176,GrabExpress,Regular,Jawa Timur,12809,4,4,On-Time,4.8
+LOG-8177,J&T Express,Regular,Sumatera Utara,9334,4,4,On-Time,5.0
+LOG-8178,J&T Express,Cargo,Bali,51240,5,5,On-Time,4.5
+LOG-8179,JNE Express,Express,Sumatera Utara,21979,1,1,On-Time,4.8
+LOG-8180,J&T Express,Express,Sumatera Utara,27952,1,1,On-Time,5.0
+LOG-8181,AnterAja,Express,Jawa Timur,21931,1,1,On-Time,4.8
+LOG-8182,AnterAja,Regular,Sumatera Utara,10413,4,4,On-Time,5.0
+LOG-8183,GrabExpress,Express,Sumatera Utara,32377,1,1,On-Time,4.0
+LOG-8184,AnterAja,Regular,Jawa Barat,10107,4,4,On-Time,5.0
+LOG-8185,SiCepat Ekspres,Regular,Jawa Tengah,19910,2,2,On-Time,5.0
+LOG-8186,JNE Express,Same-Day,DKI Jakarta,34239,0,0,On-Time,4.5
+LOG-8187,SiCepat Ekspres,Regular,Jawa Timur,10331,4,4,On-Time,4.5
+LOG-8188,SiCepat Ekspres,Express,Banten,22882,1,1,On-Time,5.0
+LOG-8189,JNE Express,Regular,Jawa Barat,11266,2,3,Delayed,3.5
+LOG-8190,J&T Express,Regular,Jawa Tengah,17307,3,5,Delayed,3.0
+LOG-8191,J&T Express,Cargo,Sumatera Utara,144691,6,6,On-Time,4.5
+LOG-8192,SiCepat Ekspres,Cargo,Jawa Barat,142268,6,6,On-Time,5.0
+LOG-8193,GoSend,Same-Day,DKI Jakarta,37081,0,0,On-Time,4.5
+LOG-8194,J&T Express,Express,Sumatera Utara,24087,1,1,On-Time,5.0
+LOG-8195,GoSend,Express,Banten,30050,1,2,Delayed,2.5
+LOG-8196,AnterAja,Express,Sumatera Utara,33025,1,1,On-Time,4.8
+LOG-8197,SiCepat Ekspres,Regular,Jawa Timur,15008,3,3,On-Time,5.0
+LOG-8198,J&T Express,Regular,Jawa Tengah,17416,3,6,Delayed,2.5
+LOG-8199,JNE Express,Express,Sumatera Utara,34442,1,2,Delayed,2.5
